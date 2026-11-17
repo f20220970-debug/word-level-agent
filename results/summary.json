@@ -1,0 +1,56 @@
+{
+ "levels_per_pack": 300,
+ "candidates_tried": 9406,
+ "accepted": 1800,
+ "rejection_log": {
+  "rejected: duplicate of an earlier level": 5673,
+  "accepted": 1800,
+  "rejected: offensive word can be spelled from these letters": 1151,
+  "rejected: wrong number of targets": 782
+ },
+ "curve_spearman_planned_vs_actual": 1.0,
+ "difficulty_vs_regular_player_completion_spearman": -0.565,
+ "regular_player_completion_by_third_agent": [
+  71.5,
+  44.7,
+  35.5
+ ],
+ "regular_player_completion_by_third_naive": [
+  1.9,
+  1.0,
+  0.9
+ ],
+ "completion_overall": {
+  "agent | casual (knows 3K commonest words)": 8.6,
+  "agent | regular (6K)": 50.6,
+  "agent | strong (12K)": 78.6,
+  "naive | casual (knows 3K commonest words)": 0.6,
+  "naive | regular (6K)": 1.2,
+  "naive | strong (12K)": 5.7
+ },
+ "breather_levels_easier_pct": 100.0,
+ "audit": [
+  {
+   "generator": "agent (generate, critic, repair)",
+   "pct_offensive": 0.0,
+   "pct_obscure": 0.0,
+   "pct_count": 0.0,
+   "pct_no_full": 0.0,
+   "pct_dup": 0.0,
+   "pct_unsolvable": 0.0,
+   "pct_any": 0.0,
+   "avg_targets": 8.2
+  },
+  {
+   "generator": "naive (random word, all valid words)",
+   "pct_offensive": 11.3,
+   "pct_obscure": 97.7,
+   "pct_count": 69.7,
+   "pct_no_full": 0.0,
+   "pct_dup": 7.0,
+   "pct_unsolvable": 0.0,
+   "pct_any": 99.3,
+   "avg_targets": 21.5
+  }
+ ]
+}

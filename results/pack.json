@@ -1,0 +1,8447 @@
+[
+{
+"level": 1,
+"letters": "DIDCEE",
+"targets": [
+"did",
+"die",
+"ice",
+"died",
+"decide"
+],
+"bonus": [
+"dee",
+"deed",
+"dice"
+],
+"difficulty": 79.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 2,
+"letters": "TRSAGEO",
+"targets": [
+"age",
+"are",
+"art",
+"get",
+"got",
+"set",
+"east",
+"rate",
+"great",
+"rates",
+"store",
+"storage"
+],
+"bonus": [
+"ars",
+"ate",
+"ego",
+"ers",
+"eta",
+"goa",
+"ora",
+"ore",
+"ors",
+"rag",
+"ras",
+"ret",
+"roe",
+"rot",
+"tao"
+],
+"difficulty": 79.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 3,
+"letters": "EFTFCE",
+"targets": [
+"fee",
+"tee",
+"feet",
+"effect"
+],
+"bonus": [
+"eff"
+],
+"difficulty": 80.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 4,
+"letters": "WATHC",
+"targets": [
+"act",
+"cat",
+"hat",
+"chat",
+"what",
+"watch"
+],
+"bonus": [
+"wat"
+],
+"difficulty": 80.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 5,
+"letters": "DDEAD",
+"targets": [
+"add",
+"dad",
+"dead",
+"added"
+],
+"bonus": [],
+"difficulty": 78.9,
+"notes": []
+},
+{
+"level": 6,
+"letters": "HSLIL",
+"targets": [
+"his",
+"ill",
+"hill",
+"hills"
+],
+"bonus": [
+"lis"
+],
+"difficulty": 80.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 7,
+"letters": "STVOE",
+"targets": [
+"set",
+"toe",
+"vote",
+"votes"
+],
+"bonus": [
+"vet",
+"toes",
+"vest",
+"veto",
+"vets",
+"stove"
+],
+"difficulty": 80.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 8,
+"letters": "MRTSO",
+"targets": [
+"rom",
+"tom",
+"most",
+"sort",
+"storm"
+],
+"bonus": [
+"mos",
+"mot",
+"ors",
+"rot",
+"tor",
+"roms"
+],
+"difficulty": 80.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 9,
+"letters": "LEXDEU",
+"targets": [
+"del",
+"due",
+"led",
+"lee",
+"deluxe"
+],
+"bonus": [
+"dee",
+"dex",
+"leu",
+"lex",
+"lux",
+"duel"
+],
+"difficulty": 80.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 10,
+"letters": "ARYIH",
+"targets": [
+"air",
+"ray",
+"hair",
+"hairy"
+],
+"bonus": [
+"hay"
+],
+"difficulty": 78.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 11,
+"letters": "ESNES",
+"targets": [
+"see",
+"seen",
+"sees",
+"sense"
+],
+"bonus": [
+"ess",
+"sen",
+"ness"
+],
+"difficulty": 80.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 12,
+"letters": "EENHRI",
+"targets": [
+"her",
+"here",
+"hire",
+"herein"
+],
+"bonus": [
+"hen",
+"ire",
+"rei"
+],
+"difficulty": 80.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 13,
+"letters": "LBAEL",
+"targets": [
+"all",
+"lab",
+"able",
+"ball",
+"bell",
+"label"
+],
+"bonus": [
+"ale",
+"bal",
+"bel",
+"lea"
+],
+"difficulty": 80.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 14,
+"letters": "IGTFH",
+"targets": [
+"fig",
+"fit",
+"hit",
+"gift",
+"fight"
+],
+"bonus": [],
+"difficulty": 80.6,
+"notes": []
+},
+{
+"level": 15,
+"letters": "EEHECS",
+"targets": [
+"sec",
+"see",
+"she",
+"cheese"
+],
+"bonus": [
+"hes"
+],
+"difficulty": 78.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 16,
+"letters": "BERIF",
+"targets": [
+"ref",
+"fire",
+"brief",
+"fiber"
+],
+"bonus": [
+"fir",
+"ire",
+"rei",
+"rib",
+"fibre"
+],
+"difficulty": 80.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 17,
+"letters": "CCATH",
+"targets": [
+"act",
+"cat",
+"hat",
+"chat",
+"catch"
+],
+"bonus": [],
+"difficulty": 80.9,
+"notes": []
+},
+{
+"level": 18,
+"letters": "THOEDSM",
+"targets": [
+"hot",
+"set",
+"she",
+"the",
+"does",
+"home",
+"most",
+"some",
+"them",
+"those",
+"method",
+"methods"
+],
+"bonus": [
+"dom",
+"ems",
+"hem",
+"hes",
+"het",
+"mos",
+"mot",
+"ode",
+"ohm",
+"tho",
+"dome",
+"dots",
+"hose",
+"meth",
+"mods"
+],
+"difficulty": 80.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 19,
+"letters": "LLBIS",
+"targets": [
+"ill",
+"lib",
+"bill",
+"bills"
+],
+"bonus": [
+"bis",
+"lis",
+"libs"
+],
+"difficulty": 80.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 20,
+"letters": "SALLM",
+"targets": [
+"all",
+"las",
+"mall",
+"small"
+],
+"bonus": [
+"als",
+"lam",
+"mas",
+"sal",
+"slam",
+"malls"
+],
+"difficulty": 78.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 21,
+"letters": "WMNOE",
+"targets": [
+"men",
+"mon",
+"new",
+"now",
+"one",
+"own",
+"won",
+"women"
+],
+"bonus": [
+"nom",
+"owe",
+"wen"
+],
+"difficulty": 81.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 22,
+"letters": "SHOGT",
+"targets": [
+"got",
+"hot",
+"host",
+"shot",
+"ghost"
+],
+"bonus": [
+"hog",
+"tho"
+],
+"difficulty": 81.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 23,
+"letters": "ARVFO",
+"targets": [
+"far",
+"for",
+"var",
+"favor"
+],
+"bonus": [
+"ora"
+],
+"difficulty": 81.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 24,
+"letters": "HIREHG",
+"targets": [
+"her",
+"reg",
+"high",
+"hire",
+"higher"
+],
+"bonus": [
+"heh",
+"ire",
+"rei",
+"rig"
+],
+"difficulty": 81.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 25,
+"letters": "YPSLUP",
+"targets": [
+"spy",
+"ups",
+"plus",
+"supply"
+],
+"bonus": [
+"ply",
+"sup",
+"yup",
+"pulp"
+],
+"difficulty": 78.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 26,
+"letters": "SESME",
+"targets": [
+"see",
+"seem",
+"sees",
+"seems"
+],
+"bonus": [
+"ems",
+"ess",
+"mess"
+],
+"difficulty": 81.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 27,
+"letters": "VENSE",
+"targets": [
+"eve",
+"see",
+"even",
+"seen",
+"seven"
+],
+"bonus": [
+"sen"
+],
+"difficulty": 81.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 28,
+"letters": "TEHCS",
+"targets": [
+"sec",
+"set",
+"she",
+"the",
+"chest"
+],
+"bonus": [
+"hes",
+"het",
+"sect"
+],
+"difficulty": 81.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 29,
+"letters": "OPNOUC",
+"targets": [
+"con",
+"cup",
+"upon",
+"coupon"
+],
+"bonus": [
+"cop",
+"coop",
+"coup"
+],
+"difficulty": 81.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 30,
+"letters": "HTFAI",
+"targets": [
+"fat",
+"fit",
+"hat",
+"hit",
+"faith"
+],
+"bonus": [
+"aft",
+"fiat"
+],
+"difficulty": 79.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 31,
+"letters": "GIETH",
+"targets": [
+"get",
+"hit",
+"the",
+"tie",
+"eight"
+],
+"bonus": [
+"het"
+],
+"difficulty": 81.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 32,
+"letters": "DDDECIE",
+"targets": [
+"did",
+"die",
+"ice",
+"died",
+"decide",
+"decided"
+],
+"bonus": [
+"dee",
+"deed",
+"dice"
+],
+"difficulty": 81.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 33,
+"letters": "OWARR",
+"targets": [
+"raw",
+"row",
+"war",
+"arrow"
+],
+"bonus": [
+"ora"
+],
+"difficulty": 81.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 34,
+"letters": "LULFY",
+"targets": [
+"flu",
+"fly",
+"full",
+"fully"
+],
+"bonus": [],
+"difficulty": 81.8,
+"notes": []
+},
+{
+"level": 35,
+"letters": "ERFRE",
+"targets": [
+"fee",
+"ref",
+"free",
+"refer"
+],
+"bonus": [
+"err",
+"reef"
+],
+"difficulty": 78.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 36,
+"letters": "RGUNNIN",
+"targets": [
+"gnu",
+"gun",
+"inn",
+"run",
+"ring",
+"running"
+],
+"bonus": [
+"gin",
+"rig",
+"rug",
+"urn",
+"grin",
+"ruin"
+],
+"difficulty": 82.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 37,
+"letters": "BYLLI",
+"targets": [
+"ill",
+"lib",
+"bill",
+"billy"
+],
+"bonus": [
+"lily"
+],
+"difficulty": 82.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 38,
+"letters": "NCETAIR",
+"targets": [
+"act",
+"air",
+"are",
+"art",
+"can",
+"car",
+"net",
+"care",
+"cart",
+"near",
+"rate",
+"certain"
+],
+"bonus": [
+"ant",
+"ate",
+"eta",
+"ire",
+"rei",
+"ret",
+"tar",
+"tic",
+"acne",
+"acre",
+"ante",
+"cain",
+"cane",
+"neat",
+"nite"
+],
+"difficulty": 82.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 39,
+"letters": "SEWOH",
+"targets": [
+"how",
+"she",
+"who",
+"shoe",
+"show",
+"whose"
+],
+"bonus": [
+"hes",
+"owe",
+"sew",
+"hose",
+"howe",
+"woes"
+],
+"difficulty": 82.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 40,
+"letters": "NUEITSM",
+"targets": [
+"its",
+"men",
+"set",
+"sun",
+"use",
+"item",
+"must",
+"site",
+"time",
+"items",
+"times",
+"minutes"
+],
+"bonus": [
+"ems",
+"emu",
+"mis",
+"mus",
+"nut",
+"sen",
+"tis",
+"mist",
+"muse",
+"mute",
+"nest",
+"nets",
+"nite",
+"tens",
+"mines"
+],
+"difficulty": 79.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 41,
+"letters": "EDSEEM",
+"targets": [
+"med",
+"see",
+"seed",
+"seem",
+"seemed"
+],
+"bonus": [
+"dee",
+"ems"
+],
+"difficulty": 82.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 42,
+"letters": "AERTEDL",
+"targets": [
+"are",
+"art",
+"let",
+"red",
+"date",
+"lead",
+"rate",
+"read",
+"real",
+"later",
+"trade",
+"related"
+],
+"bonus": [
+"ale",
+"ate",
+"dal",
+"dee",
+"eta",
+"lad",
+"lea",
+"rad",
+"ret",
+"tad",
+"tar",
+"dare",
+"dart",
+"reel",
+"teal"
+],
+"difficulty": 82.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 43,
+"letters": "SSCUESC",
+"targets": [
+"sec",
+"sue",
+"use",
+"uses",
+"success"
+],
+"bonus": [
+"cue",
+"ess",
+"cues",
+"secs"
+],
+"difficulty": 82.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 44,
+"letters": "CTUHO",
+"targets": [
+"cut",
+"hot",
+"out",
+"thou",
+"touch"
+],
+"bonus": [
+"cot",
+"hut",
+"tho"
+],
+"difficulty": 82.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 45,
+"letters": "EYOJN",
+"targets": [
+"joe",
+"joy",
+"one",
+"enjoy"
+],
+"bonus": [
+"yen",
+"joey"
+],
+"difficulty": 79.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 46,
+"letters": "ECHOIC",
+"targets": [
+"chi",
+"ice",
+"echo",
+"choice"
+],
+"bonus": [
+"ich",
+"chic",
+"chico"
+],
+"difficulty": 82.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 47,
+"letters": "EPSLE",
+"targets": [
+"lee",
+"pee",
+"see",
+"else",
+"sleep"
+],
+"bonus": [
+"peel"
+],
+"difficulty": 82.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 48,
+"letters": "CCRKA",
+"targets": [
+"arc",
+"car",
+"rack",
+"crack"
+],
+"bonus": [
+"ark"
+],
+"difficulty": 82.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 49,
+"letters": "DYYPAA",
+"targets": [
+"day",
+"pad",
+"pay",
+"payday"
+],
+"bonus": [
+"yay"
+],
+"difficulty": 82.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 50,
+"letters": "TRCLEAI",
+"targets": [
+"act",
+"air",
+"are",
+"art",
+"car",
+"let",
+"care",
+"cart",
+"rate",
+"real",
+"clear",
+"article"
+],
+"bonus": [
+"ale",
+"ate",
+"eta",
+"ire",
+"lac",
+"lea",
+"lei",
+"lit",
+"rei",
+"ret",
+"tar",
+"tic",
+"til",
+"acre",
+"alec"
+],
+"difficulty": 79.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 51,
+"letters": "NUSRTER",
+"targets": [
+"net",
+"run",
+"set",
+"sun",
+"use",
+"sent",
+"sure",
+"true",
+"turn",
+"user",
+"return",
+"returns"
+],
+"bonus": [
+"err",
+"ers",
+"nut",
+"ret",
+"rue",
+"sen",
+"urn",
+"nest",
+"nets",
+"rust",
+"tens",
+"rents",
+"stern",
+"tuner",
+"tunes"
+],
+"difficulty": 82.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 52,
+"letters": "OBYOT",
+"targets": [
+"boy",
+"too",
+"toy",
+"boot",
+"booty"
+],
+"bonus": [
+"boo",
+"bot",
+"toby"
+],
+"difficulty": 82.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 53,
+"letters": "CEOVSI",
+"targets": [
+"ice",
+"sec",
+"vice",
+"voice",
+"voices"
+],
+"bonus": [
+"cis",
+"cos",
+"sic",
+"vie",
+"vis",
+"cove"
+],
+"difficulty": 83.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 54,
+"letters": "GNAVHI",
+"targets": [
+"van",
+"via",
+"gain",
+"hang",
+"having"
+],
+"bonus": [
+"gan",
+"gin",
+"vain"
+],
+"difficulty": 83.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 55,
+"letters": "WININGN",
+"targets": [
+"inn",
+"win",
+"wing",
+"winning"
+],
+"bonus": [
+"gin",
+"wig",
+"inning"
+],
+"difficulty": 79.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 56,
+"letters": "ETQSU",
+"targets": [
+"set",
+"sue",
+"use",
+"quest"
+],
+"bonus": [],
+"difficulty": 83.1,
+"notes": []
+},
+{
+"level": 57,
+"letters": "FHBLAE",
+"targets": [
+"lab",
+"able",
+"half",
+"leaf",
+"behalf"
+],
+"bonus": [
+"ale",
+"bal",
+"bel",
+"elf",
+"lea",
+"blah",
+"flea",
+"hale",
+"heal",
+"fable"
+],
+"difficulty": 83.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 58,
+"letters": "RPUPOST",
+"targets": [
+"our",
+"out",
+"pro",
+"put",
+"top",
+"port",
+"post",
+"sort",
+"stop",
+"tour",
+"sport",
+"support"
+],
+"bonus": [
+"ops",
+"ors",
+"rot",
+"sup",
+"tor",
+"opus",
+"ours",
+"outs",
+"pops",
+"pots",
+"prop",
+"rust",
+"sour",
+"spur",
+"props"
+],
+"difficulty": 83.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 59,
+"letters": "OSTRHE",
+"targets": [
+"her",
+"hot",
+"set",
+"she",
+"the",
+"sort",
+"horse",
+"other",
+"short",
+"store",
+"those",
+"others"
+],
+"bonus": [
+"ers",
+"hes",
+"het",
+"ore",
+"ors",
+"ret",
+"roe",
+"rot",
+"tho",
+"tor",
+"hers",
+"hose",
+"sore",
+"toes",
+"res"
+],
+"difficulty": 83.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 60,
+"letters": "WTHRGI",
+"targets": [
+"hit",
+"with",
+"right",
+"wright"
+],
+"bonus": [
+"rig",
+"wig",
+"wit",
+"writ",
+"wight"
+],
+"difficulty": 79.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 61,
+"letters": "EGLOB",
+"targets": [
+"gel",
+"leg",
+"log",
+"globe"
+],
+"bonus": [
+"beg",
+"bel",
+"ego",
+"lob",
+"ole"
+],
+"difficulty": 83.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 62,
+"letters": "SODOR",
+"targets": [
+"dos",
+"rod",
+"door",
+"doors"
+],
+"bonus": [
+"ors",
+"odor",
+"rods"
+],
+"difficulty": 83.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 63,
+"letters": "SEGUT",
+"targets": [
+"get",
+"set",
+"sue",
+"use",
+"gets",
+"guest"
+],
+"bonus": [
+"gut",
+"guts"
+],
+"difficulty": 83.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 64,
+"letters": "MTOUH",
+"targets": [
+"hot",
+"out",
+"tom",
+"thou",
+"mouth"
+],
+"bonus": [
+"hum",
+"hut",
+"mot",
+"ohm",
+"tho"
+],
+"difficulty": 83.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 65,
+"letters": "DNIEX",
+"targets": [
+"den",
+"die",
+"end",
+"index"
+],
+"bonus": [
+"dex",
+"din",
+"dine"
+],
+"difficulty": 79.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 66,
+"letters": "OBLMYS",
+"targets": [
+"boy",
+"sol",
+"boys",
+"symbol"
+],
+"bonus": [
+"bos",
+"lob",
+"mob",
+"mol",
+"mos",
+"soy"
+],
+"difficulty": 83.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 67,
+"letters": "IEDLY",
+"targets": [
+"del",
+"die",
+"led",
+"lie",
+"yield"
+],
+"bonus": [
+"dye",
+"lei",
+"lid",
+"deli",
+"idle",
+"lied"
+],
+"difficulty": 83.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 68,
+"letters": "RTALEN",
+"targets": [
+"are",
+"art",
+"let",
+"net",
+"tel",
+"late",
+"near",
+"rate",
+"real",
+"later",
+"learn",
+"rental"
+],
+"bonus": [
+"ale",
+"ant",
+"ate",
+"eta",
+"lea",
+"ret",
+"tar",
+"ante",
+"lean",
+"lent",
+"neat",
+"rant",
+"teal",
+"tear",
+"renal"
+],
+"difficulty": 83.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 69,
+"letters": "DSKEA",
+"targets": [
+"ads",
+"ask",
+"sad",
+"sea",
+"desk",
+"asked"
+],
+"bonus": [
+"ska",
+"sake"
+],
+"difficulty": 83.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 70,
+"letters": "YRAOL",
+"targets": [
+"lay",
+"ray",
+"oral",
+"royal"
+],
+"bonus": [
+"ora"
+],
+"difficulty": 79.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 71,
+"letters": "MESOU",
+"targets": [
+"sue",
+"sum",
+"use",
+"some",
+"mouse"
+],
+"bonus": [
+"ems",
+"emu",
+"mos",
+"mus",
+"muse"
+],
+"difficulty": 84.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 72,
+"letters": "DUOPN",
+"targets": [
+"don",
+"pond",
+"upon",
+"pound"
+],
+"bonus": [
+"dun",
+"duo",
+"nod",
+"pod",
+"undo"
+],
+"difficulty": 84.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 73,
+"letters": "NYTWTE",
+"targets": [
+"net",
+"new",
+"ten",
+"wet",
+"yet",
+"went",
+"twenty"
+],
+"bonus": [
+"wen",
+"yen",
+"tent",
+"tyne"
+],
+"difficulty": 84.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 74,
+"letters": "DLEEV",
+"targets": [
+"del",
+"dev",
+"eve",
+"led",
+"lee",
+"devel"
+],
+"bonus": [
+"dee",
+"lev"
+],
+"difficulty": 84.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 75,
+"letters": "SUISE",
+"targets": [
+"sue",
+"use",
+"uses",
+"issue"
+],
+"bonus": [
+"ess",
+"sis"
+],
+"difficulty": 79.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 76,
+"letters": "MOCCSI",
+"targets": [
+"sim",
+"cisco",
+"comic",
+"comics"
+],
+"bonus": [
+"cis",
+"cos",
+"mis",
+"moc",
+"mos",
+"sic",
+"cosmic"
+],
+"difficulty": 84.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 77,
+"letters": "NCCHEA",
+"targets": [
+"ace",
+"can",
+"each",
+"cache",
+"chance"
+],
+"bonus": [
+"hen",
+"acne",
+"cane"
+],
+"difficulty": 84.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 78,
+"letters": "OLETTU",
+"targets": [
+"let",
+"lot",
+"out",
+"tel",
+"toe",
+"outlet"
+],
+"bonus": [
+"leu",
+"ole",
+"tot",
+"tote",
+"tout"
+],
+"difficulty": 84.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 79,
+"letters": "OSHUE",
+"targets": [
+"she",
+"sue",
+"use",
+"shoe",
+"house"
+],
+"bonus": [
+"hes",
+"hose"
+],
+"difficulty": 84.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 80,
+"letters": "INBLD",
+"targets": [
+"bid",
+"bin",
+"lib",
+"blind"
+],
+"bonus": [
+"din",
+"lid",
+"lin",
+"nib",
+"nil",
+"bind"
+],
+"difficulty": 80.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 81,
+"letters": "IBLUT",
+"targets": [
+"bit",
+"but",
+"lib",
+"tub",
+"built"
+],
+"bonus": [
+"lit",
+"til"
+],
+"difficulty": 84.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 82,
+"letters": "LEVIR",
+"targets": [
+"lie",
+"rev",
+"evil",
+"live",
+"liver"
+],
+"bonus": [
+"ire",
+"lei",
+"lev",
+"rei",
+"vie",
+"veil"
+],
+"difficulty": 84.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 83,
+"letters": "TNGHI",
+"targets": [
+"hit",
+"tin",
+"thin",
+"night",
+"thing"
+],
+"bonus": [
+"gin",
+"hint"
+],
+"difficulty": 84.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 84,
+"letters": "GEALE",
+"targets": [
+"age",
+"gel",
+"lee",
+"leg",
+"eagle"
+],
+"bonus": [
+"ale",
+"gal",
+"gee",
+"lag",
+"lea",
+"gale"
+],
+"difficulty": 84.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 85,
+"letters": "EDNED",
+"targets": [
+"den",
+"end",
+"need",
+"ended"
+],
+"bonus": [
+"dee",
+"deed"
+],
+"difficulty": 80.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 86,
+"letters": "RCAYR",
+"targets": [
+"arc",
+"car",
+"cry",
+"ray",
+"carry"
+],
+"bonus": [
+"carr"
+],
+"difficulty": 84.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 87,
+"letters": "TTRUH",
+"targets": [
+"hurt",
+"ruth",
+"thru",
+"truth"
+],
+"bonus": [
+"hut"
+],
+"difficulty": 85.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 88,
+"letters": "DBUTO",
+"targets": [
+"but",
+"dot",
+"out",
+"tub",
+"doubt"
+],
+"bonus": [
+"bod",
+"bot",
+"bud",
+"dub",
+"duo",
+"bout"
+],
+"difficulty": 85.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 89,
+"letters": "RBUGY",
+"targets": [
+"bug",
+"buy",
+"guy",
+"ruby",
+"rugby"
+],
+"bonus": [
+"bur",
+"rub",
+"rug",
+"bury"
+],
+"difficulty": 85.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 90,
+"letters": "CSERHA",
+"targets": [
+"are",
+"car",
+"has",
+"her",
+"she",
+"care",
+"cars",
+"case",
+"cash",
+"each",
+"share",
+"search"
+],
+"bonus": [
+"ars",
+"ers",
+"hes",
+"ras",
+"sac",
+"sha",
+"aces",
+"acre",
+"ares",
+"hare",
+"hers",
+"rash",
+"scar",
+"shea",
+"cares"
+],
+"difficulty": 80.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 91,
+"letters": "NSCUSE",
+"targets": [
+"sec",
+"sue",
+"sun",
+"use",
+"uses",
+"census"
+],
+"bonus": [
+"cue",
+"ess",
+"sen",
+"cues",
+"ness",
+"secs",
+"suns"
+],
+"difficulty": 85.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 92,
+"letters": "LTSFEI",
+"targets": [
+"its",
+"let",
+"set",
+"tel",
+"file",
+"left",
+"life",
+"list",
+"self",
+"site",
+"files",
+"itself"
+],
+"bonus": [
+"elf",
+"ifs",
+"lei",
+"lis",
+"lit",
+"til",
+"tis",
+"lest",
+"flies",
+"lifts",
+"tiles",
+"fit",
+"lie",
+"sit",
+"tie"
+],
+"difficulty": 85.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 93,
+"letters": "TNIVEI",
+"targets": [
+"net",
+"ten",
+"tie",
+"tin",
+"invite"
+],
+"bonus": [
+"vet",
+"vie",
+"nite",
+"vein",
+"vent",
+"vine"
+],
+"difficulty": 85.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 94,
+"letters": "AEBBS",
+"targets": [
+"abs",
+"sea",
+"babe",
+"base",
+"babes"
+],
+"bonus": [
+"bas"
+],
+"difficulty": 85.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 95,
+"letters": "VLIAL",
+"targets": [
+"all",
+"ill",
+"via",
+"villa"
+],
+"bonus": [
+"vail"
+],
+"difficulty": 81.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 96,
+"letters": "EWSIL",
+"targets": [
+"lie",
+"isle",
+"lies",
+"wise",
+"lewis"
+],
+"bonus": [
+"lei",
+"lis",
+"sew"
+],
+"difficulty": 85.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 97,
+"letters": "TBOTOM",
+"targets": [
+"tom",
+"too",
+"boom",
+"boot",
+"bottom"
+],
+"bonus": [
+"boo",
+"bot",
+"mob",
+"moo",
+"mot",
+"tot",
+"otto",
+"tomb",
+"motto"
+],
+"difficulty": 85.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 98,
+"letters": "EPIEC",
+"targets": [
+"ice",
+"pee",
+"pic",
+"pie",
+"piece"
+],
+"bonus": [
+"epic"
+],
+"difficulty": 85.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 99,
+"letters": "ALORS",
+"targets": [
+"las",
+"sol",
+"also",
+"oral",
+"solar"
+],
+"bonus": [
+"als",
+"ars",
+"ora",
+"ors",
+"ras",
+"sal",
+"lars",
+"soar"
+],
+"difficulty": 85.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 100,
+"letters": "ENAVH",
+"targets": [
+"ave",
+"van",
+"have",
+"haven"
+],
+"bonus": [
+"hen"
+],
+"difficulty": 81.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 101,
+"letters": "OVOBISU",
+"targets": [
+"bio",
+"bus",
+"sub",
+"bios",
+"obvious"
+],
+"bonus": [
+"bis",
+"boo",
+"bos",
+"vis"
+],
+"difficulty": 85.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 102,
+"letters": "ROPVE",
+"targets": [
+"per",
+"pro",
+"rep",
+"rev",
+"over",
+"prove"
+],
+"bonus": [
+"ore",
+"roe",
+"rope",
+"rove"
+],
+"difficulty": 85.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 103,
+"letters": "LAYIPDS",
+"targets": [
+"ads",
+"aid",
+"day",
+"las",
+"pay",
+"say",
+"days",
+"paid",
+"play",
+"said",
+"daily",
+"display"
+],
+"bonus": [
+"als",
+"dal",
+"dip",
+"ids",
+"lad",
+"lap",
+"lid",
+"lis",
+"pas",
+"ply",
+"psi",
+"sal",
+"sip",
+"alps",
+"laps"
+],
+"difficulty": 85.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 104,
+"letters": "HOTRE",
+"targets": [
+"her",
+"hot",
+"the",
+"toe",
+"hero",
+"other"
+],
+"bonus": [
+"het",
+"ore",
+"ret",
+"roe",
+"rot",
+"tho",
+"tor"
+],
+"difficulty": 86.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 105,
+"letters": "JYINRU",
+"targets": [
+"jun",
+"run",
+"jury",
+"injury"
+],
+"bonus": [
+"jin",
+"urn",
+"yin",
+"ruin"
+],
+"difficulty": 81.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 106,
+"letters": "FUOMAS",
+"targets": [
+"sum",
+"foam",
+"soma",
+"famous"
+],
+"bonus": [
+"fas",
+"mas",
+"mos",
+"mus",
+"sofa"
+],
+"difficulty": 86.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 107,
+"letters": "CERCLI",
+"targets": [
+"ice",
+"lie",
+"rec",
+"rice",
+"circle"
+],
+"bonus": [
+"ire",
+"lei",
+"rei"
+],
+"difficulty": 86.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 108,
+"letters": "GINWIRT",
+"targets": [
+"tin",
+"win",
+"ring",
+"twin",
+"wing",
+"writing"
+],
+"bonus": [
+"gin",
+"rig",
+"wig",
+"wit",
+"grin",
+"writ",
+"wiring"
+],
+"difficulty": 86.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 109,
+"letters": "ALONG",
+"targets": [
+"ago",
+"log",
+"goal",
+"lang",
+"loan",
+"long",
+"along"
+],
+"bonus": [
+"gal",
+"gan",
+"goa",
+"lag",
+"logan"
+],
+"difficulty": 86.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 110,
+"letters": "WEPOR",
+"targets": [
+"per",
+"pro",
+"rep",
+"row",
+"power"
+],
+"bonus": [
+"ore",
+"owe",
+"pow",
+"roe",
+"rope",
+"wore"
+],
+"difficulty": 82.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 111,
+"letters": "RMOET",
+"targets": [
+"met",
+"rom",
+"toe",
+"tom",
+"more",
+"term",
+"metro"
+],
+"bonus": [
+"mot",
+"ore",
+"rem",
+"ret",
+"roe",
+"rot",
+"tor",
+"tome"
+],
+"difficulty": 86.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 112,
+"letters": "NUBOS",
+"targets": [
+"bus",
+"ons",
+"son",
+"sub",
+"sun",
+"bonus"
+],
+"bonus": [
+"bos",
+"nos",
+"nous"
+],
+"difficulty": 86.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 113,
+"letters": "BRHYDI",
+"targets": [
+"bid",
+"dry",
+"rid",
+"bird",
+"hybrid"
+],
+"bonus": [
+"hid",
+"rib"
+],
+"difficulty": 86.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 114,
+"letters": "SRVELAE",
+"targets": [
+"are",
+"las",
+"lee",
+"sea",
+"see",
+"else",
+"ever",
+"real",
+"sale",
+"save",
+"leave",
+"several"
+],
+"bonus": [
+"ale",
+"als",
+"ars",
+"ers",
+"lea",
+"lev",
+"ras",
+"sal",
+"ares",
+"lars",
+"rave",
+"reel",
+"vale",
+"vase",
+"vera"
+],
+"difficulty": 86.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 115,
+"letters": "LSAARY",
+"targets": [
+"las",
+"lay",
+"ray",
+"say",
+"salary"
+],
+"bonus": [
+"ala",
+"als",
+"ars",
+"ras",
+"sal",
+"alas",
+"lars",
+"lays",
+"rays"
+],
+"difficulty": 82.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 116,
+"letters": "UQYIET",
+"targets": [
+"tie",
+"yet",
+"quit",
+"quiet",
+"quite",
+"equity"
+],
+"bonus": [],
+"difficulty": 86.7,
+"notes": []
+},
+{
+"level": 117,
+"letters": "PESSR",
+"targets": [
+"per",
+"rep",
+"res",
+"ser",
+"press"
+],
+"bonus": [
+"ers",
+"ess",
+"reps"
+],
+"difficulty": 86.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 118,
+"letters": "NEWRNI",
+"targets": [
+"inn",
+"new",
+"win",
+"nine",
+"wine",
+"wire",
+"inner",
+"winner"
+],
+"bonus": [
+"ire",
+"rei",
+"wen",
+"weir"
+],
+"difficulty": 86.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 119,
+"letters": "ITERNSE",
+"targets": [
+"its",
+"net",
+"see",
+"set",
+"seen",
+"sent",
+"site",
+"teen",
+"tree",
+"enter",
+"teens",
+"entries"
+],
+"bonus": [
+"ers",
+"ire",
+"rei",
+"ret",
+"sen",
+"tis",
+"nest",
+"nets",
+"nite",
+"rite",
+"sire",
+"stir",
+"tees",
+"tens",
+"rents"
+],
+"difficulty": 86.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 120,
+"letters": "OODNBY",
+"targets": [
+"boy",
+"don",
+"body",
+"bond",
+"nobody"
+],
+"bonus": [
+"bod",
+"boo",
+"nod"
+],
+"difficulty": 82.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 121,
+"letters": "NTSUR",
+"targets": [
+"run",
+"sun",
+"nuts",
+"runs",
+"turn",
+"turns"
+],
+"bonus": [
+"nut",
+"urn",
+"rust"
+],
+"difficulty": 87.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 122,
+"letters": "IFCTFAR",
+"targets": [
+"act",
+"air",
+"art",
+"car",
+"cat",
+"far",
+"fat",
+"fit",
+"cart",
+"fact",
+"fair",
+"traffic"
+],
+"bonus": [
+"aff",
+"aft",
+"fir",
+"tar",
+"tic",
+"fiat",
+"tiff",
+"tariff",
+"arc",
+"rat",
+"craft"
+],
+"difficulty": 87.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 123,
+"letters": "LSETRTE",
+"targets": [
+"let",
+"see",
+"set",
+"tel",
+"else",
+"rest",
+"test",
+"tree",
+"steel",
+"letter",
+"street",
+"letters"
+],
+"bonus": [
+"ers",
+"ret",
+"lest",
+"reel",
+"tees",
+"tele",
+"reels",
+"steer",
+"settle",
+"tester",
+"lee",
+"res",
+"ser",
+"tee",
+"lets"
+],
+"difficulty": 87.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 124,
+"letters": "VESIL",
+"targets": [
+"lie",
+"evil",
+"isle",
+"lies",
+"live",
+"lives"
+],
+"bonus": [
+"lei",
+"lev",
+"lis",
+"vie",
+"vis",
+"veil"
+],
+"difficulty": 87.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 125,
+"letters": "LVIRARA",
+"targets": [
+"air",
+"var",
+"via",
+"rail",
+"arrival"
+],
+"bonus": [
+"ala",
+"aria",
+"lava",
+"liar",
+"lira",
+"vail",
+"avail",
+"rival",
+"viral"
+],
+"difficulty": 82.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 126,
+"letters": "REEEDG",
+"targets": [
+"red",
+"reg",
+"deer",
+"edge",
+"reed",
+"degree"
+],
+"bonus": [
+"dee",
+"ged",
+"gee",
+"greed"
+],
+"difficulty": 87.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 127,
+"letters": "FLODO",
+"targets": [
+"old",
+"fold",
+"food",
+"fool",
+"flood"
+],
+"bonus": [],
+"difficulty": 87.4,
+"notes": []
+},
+{
+"level": 128,
+"letters": "RAOBL",
+"targets": [
+"bar",
+"bra",
+"lab",
+"rob",
+"oral",
+"labor"
+],
+"bonus": [
+"bal",
+"boa",
+"bro",
+"lob",
+"ora",
+"orb"
+],
+"difficulty": 87.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 129,
+"letters": "POAMNYC",
+"targets": [
+"any",
+"can",
+"mac",
+"man",
+"map",
+"may",
+"mon",
+"pay",
+"camp",
+"copy",
+"many",
+"company"
+],
+"bonus": [
+"cop",
+"moc",
+"mop",
+"nap",
+"nay",
+"nom",
+"pac",
+"pam",
+"coma",
+"cyan",
+"mayo",
+"pony",
+"macon",
+"canopy",
+"amp"
+],
+"difficulty": 87.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 130,
+"letters": "MESARAC",
+"targets": [
+"are",
+"car",
+"mar",
+"area",
+"came",
+"care",
+"cars",
+"case",
+"same",
+"areas",
+"camera",
+"cameras"
+],
+"bonus": [
+"ama",
+"ars",
+"ems",
+"ers",
+"mae",
+"mas",
+"ras",
+"rem",
+"sac",
+"aces",
+"acme",
+"acre",
+"ares",
+"casa",
+"macs"
+],
+"difficulty": 83.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 131,
+"letters": "EELRMY",
+"targets": [
+"eye",
+"lee",
+"mere",
+"rely",
+"merely"
+],
+"bonus": [
+"elm",
+"mel",
+"rem",
+"rye",
+"reel"
+],
+"difficulty": 87.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 132,
+"letters": "NAGTR",
+"targets": [
+"art",
+"ran",
+"rat",
+"tag",
+"tan",
+"grant"
+],
+"bonus": [
+"ant",
+"gan",
+"rag",
+"tar",
+"gran",
+"rang",
+"rant",
+"tang"
+],
+"difficulty": 87.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 133,
+"letters": "IOKEOSC",
+"targets": [
+"ice",
+"sec",
+"ski",
+"cook",
+"sick",
+"cookie",
+"cookies"
+],
+"bonus": [
+"cis",
+"cos",
+"kos",
+"sic",
+"coke",
+"sock",
+"cooks"
+],
+"difficulty": 87.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 134,
+"letters": "SESTRS",
+"targets": [
+"res",
+"ser",
+"set",
+"rest",
+"sets",
+"stress"
+],
+"bonus": [
+"ers",
+"ess",
+"ret",
+"rests"
+],
+"difficulty": 87.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 135,
+"letters": "SALRETG",
+"targets": [
+"are",
+"art",
+"get",
+"let",
+"set",
+"last",
+"rate",
+"real",
+"sale",
+"great",
+"large",
+"largest"
+],
+"bonus": [
+"ale",
+"als",
+"ars",
+"ate",
+"ers",
+"eta",
+"gal",
+"lag",
+"lea",
+"rag",
+"ras",
+"ret",
+"sal",
+"tar",
+"tas"
+],
+"difficulty": 83.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 136,
+"letters": "OOHLCS",
+"targets": [
+"col",
+"sol",
+"cool",
+"solo",
+"school"
+],
+"bonus": [
+"cos",
+"ooh",
+"loch"
+],
+"difficulty": 87.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 137,
+"letters": "DIEIDVD",
+"targets": [
+"dev",
+"did",
+"die",
+"died",
+"dive",
+"divided"
+],
+"bonus": [
+"vie",
+"divide"
+],
+"difficulty": 88.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 138,
+"letters": "OPYMCL",
+"targets": [
+"col",
+"comp",
+"copy",
+"poly",
+"comply"
+],
+"bonus": [
+"cop",
+"moc",
+"mol",
+"mop",
+"ply",
+"pol"
+],
+"difficulty": 88.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 139,
+"letters": "VEENT",
+"targets": [
+"eve",
+"net",
+"tee",
+"ten",
+"even",
+"teen",
+"event"
+],
+"bonus": [
+"vet",
+"vent"
+],
+"difficulty": 88.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 140,
+"letters": "IMNTGI",
+"targets": [
+"tin",
+"mini",
+"mint",
+"timing"
+],
+"bonus": [
+"gin"
+],
+"difficulty": 83.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 141,
+"letters": "IDBIGNN",
+"targets": [
+"bid",
+"big",
+"bin",
+"dig",
+"inn",
+"dining",
+"binding"
+],
+"bonus": [
+"din",
+"gin",
+"nib",
+"bind",
+"ding"
+],
+"difficulty": 88.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 142,
+"letters": "EASTNE",
+"targets": [
+"net",
+"sat",
+"sea",
+"see",
+"set",
+"ten",
+"east",
+"seen",
+"sent",
+"teen",
+"teens",
+"senate"
+],
+"bonus": [
+"ant",
+"ate",
+"eta",
+"sen",
+"tas",
+"ante",
+"ants",
+"eats",
+"neat",
+"nest",
+"nets",
+"sane",
+"teas",
+"tees",
+"tens"
+],
+"difficulty": 88.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 143,
+"letters": "SEDNSOC",
+"targets": [
+"end",
+"one",
+"sec",
+"son",
+"code",
+"does",
+"done",
+"once",
+"ones",
+"send",
+"second",
+"seconds"
+],
+"bonus": [
+"cos",
+"ess",
+"nod",
+"nos",
+"ode",
+"sen",
+"sos",
+"coed",
+"cone",
+"deco",
+"ness",
+"secs",
+"doses",
+"cod",
+"con"
+],
+"difficulty": 88.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 144,
+"letters": "SLVOE",
+"targets": [
+"sol",
+"lose",
+"love",
+"sole",
+"loves",
+"solve"
+],
+"bonus": [
+"lev",
+"ole"
+],
+"difficulty": 88.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 145,
+"letters": "IHWET",
+"targets": [
+"hit",
+"the",
+"tie",
+"wet",
+"with",
+"white"
+],
+"bonus": [
+"het",
+"wit"
+],
+"difficulty": 84.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 146,
+"letters": "NOPHE",
+"targets": [
+"hon",
+"hop",
+"one",
+"pen",
+"hope",
+"open",
+"phone"
+],
+"bonus": [
+"hen",
+"hep",
+"nope"
+],
+"difficulty": 88.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 147,
+"letters": "LLERIM",
+"targets": [
+"ill",
+"lie",
+"rim",
+"mile",
+"mill",
+"miller"
+],
+"bonus": [
+"elm",
+"ire",
+"lei",
+"mel",
+"mil",
+"mir",
+"rei",
+"rem",
+"lime"
+],
+"difficulty": 88.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 148,
+"letters": "LLOSADR",
+"targets": [
+"ads",
+"all",
+"las",
+"old",
+"also",
+"load",
+"lord",
+"oral",
+"road",
+"sold",
+"dollar",
+"dollars"
+],
+"bonus": [
+"als",
+"ars",
+"dal",
+"lad",
+"ora",
+"ors",
+"rad",
+"ras",
+"sal",
+"lars",
+"olds",
+"rods",
+"soar",
+"soda",
+"lords"
+],
+"difficulty": 88.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 149,
+"letters": "ORSDCER",
+"targets": [
+"red",
+"sec",
+"code",
+"core",
+"does",
+"rose",
+"codes",
+"order",
+"score",
+"orders",
+"record",
+"records"
+],
+"bonus": [
+"cor",
+"cos",
+"err",
+"ers",
+"ode",
+"ore",
+"ors",
+"roc",
+"roe",
+"coed",
+"deco",
+"reds",
+"rode",
+"rods",
+"sore"
+],
+"difficulty": 88.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 150,
+"letters": "LSLUYAU",
+"targets": [
+"all",
+"las",
+"lay",
+"say",
+"usual",
+"usually"
+],
+"bonus": [
+"als",
+"sal",
+"ally",
+"lays",
+"lulu",
+"saul",
+"sally"
+],
+"difficulty": 84.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 151,
+"letters": "ETWNES",
+"targets": [
+"net",
+"new",
+"see",
+"set",
+"news",
+"seen",
+"sent",
+"teen",
+"went",
+"west",
+"teens",
+"newest"
+],
+"bonus": [
+"sen",
+"sew",
+"wee",
+"wen",
+"nest",
+"nets",
+"stew",
+"tees",
+"tens",
+"tense",
+"tee",
+"ten",
+"wet",
+"sweet"
+],
+"difficulty": 88.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 152,
+"letters": "DENSCO",
+"targets": [
+"end",
+"one",
+"sec",
+"son",
+"code",
+"does",
+"done",
+"once",
+"ones",
+"send",
+"codes",
+"second"
+],
+"bonus": [
+"cos",
+"nod",
+"nos",
+"ode",
+"sen",
+"coed",
+"cone",
+"deco",
+"cod",
+"con",
+"den",
+"doc",
+"doe",
+"don",
+"dos"
+],
+"difficulty": 88.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 153,
+"letters": "TROSEMN",
+"targets": [
+"men",
+"net",
+"not",
+"one",
+"set",
+"more",
+"most",
+"note",
+"some",
+"store",
+"terms",
+"monster"
+],
+"bonus": [
+"ems",
+"ers",
+"mos",
+"mot",
+"nom",
+"nos",
+"ore",
+"ors",
+"rem",
+"ret",
+"roe",
+"rot",
+"sen",
+"tor",
+"nest"
+],
+"difficulty": 89.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 154,
+"letters": "EVLDO",
+"targets": [
+"del",
+"dev",
+"doe",
+"led",
+"old",
+"love",
+"loved"
+],
+"bonus": [
+"lev",
+"ode",
+"ole",
+"dove"
+],
+"difficulty": 89.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 155,
+"letters": "NNAEHCE",
+"targets": [
+"ace",
+"can",
+"each",
+"hence",
+"enhance"
+],
+"bonus": [
+"hen",
+"nan",
+"acne",
+"cane"
+],
+"difficulty": 84.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 156,
+"letters": "IGSMA",
+"targets": [
+"aim",
+"gas",
+"mag",
+"sim",
+"aims",
+"sigma"
+],
+"bonus": [
+"ami",
+"gam",
+"mas",
+"mis",
+"mags"
+],
+"difficulty": 89.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 157,
+"letters": "ECRSTAE",
+"targets": [
+"act",
+"are",
+"art",
+"car",
+"see",
+"set",
+"care",
+"cart",
+"case",
+"rate",
+"rates",
+"creates"
+],
+"bonus": [
+"ars",
+"ate",
+"ers",
+"eta",
+"ras",
+"ret",
+"sac",
+"tar",
+"tas",
+"aces",
+"acre",
+"ares",
+"eats",
+"scar",
+"scat"
+],
+"difficulty": 89.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 158,
+"letters": "PSOEUPR",
+"targets": [
+"our",
+"per",
+"pop",
+"pro",
+"ups",
+"use",
+"rose",
+"sure",
+"user",
+"super",
+"upper",
+"purpose"
+],
+"bonus": [
+"ers",
+"ops",
+"ore",
+"ors",
+"pep",
+"roe",
+"rue",
+"sup",
+"opus",
+"ours",
+"peso",
+"pops",
+"pose",
+"prop",
+"reps"
+],
+"difficulty": 89.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 159,
+"letters": "RATMFO",
+"targets": [
+"art",
+"far",
+"fat",
+"for",
+"mar",
+"tom",
+"atom",
+"farm",
+"form",
+"fort",
+"from",
+"format"
+],
+"bonus": [
+"aft",
+"mot",
+"ora",
+"rot",
+"tam",
+"tao",
+"tar",
+"tor",
+"arm",
+"mat",
+"ram",
+"rat",
+"rom",
+"foam",
+"mart"
+],
+"difficulty": 89.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 160,
+"letters": "HWTRO",
+"targets": [
+"hot",
+"how",
+"row",
+"two",
+"who",
+"throw",
+"worth"
+],
+"bonus": [
+"rot",
+"tho",
+"tor",
+"tow"
+],
+"difficulty": 85.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 161,
+"letters": "ARECESR",
+"targets": [
+"are",
+"car",
+"sea",
+"sec",
+"see",
+"care",
+"cars",
+"case",
+"race",
+"rare",
+"career",
+"careers"
+],
+"bonus": [
+"ars",
+"err",
+"ers",
+"ras",
+"sac",
+"aces",
+"acre",
+"ares",
+"carr",
+"scar",
+"cares",
+"cease",
+"erase",
+"racer",
+"scare"
+],
+"difficulty": 89.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 162,
+"letters": "ERSEJY",
+"targets": [
+"eye",
+"res",
+"see",
+"ser",
+"yes",
+"eyes",
+"jersey"
+],
+"bonus": [
+"ers",
+"rye"
+],
+"difficulty": 89.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 163,
+"letters": "IENHKTC",
+"targets": [
+"hit",
+"ice",
+"kit",
+"net",
+"ten",
+"the",
+"cent",
+"inch",
+"nice",
+"then",
+"think",
+"kitchen"
+],
+"bonus": [
+"hen",
+"het",
+"ich",
+"kin",
+"tic",
+"chin",
+"chit",
+"heck",
+"hike",
+"hint",
+"kite",
+"knit",
+"nite",
+"tick",
+"niche"
+],
+"difficulty": 89.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 164,
+"letters": "RSESTIO",
+"targets": [
+"its",
+"set",
+"rest",
+"rise",
+"rose",
+"sets",
+"site",
+"sort",
+"sites",
+"store",
+"stores",
+"stories"
+],
+"bonus": [
+"ers",
+"ess",
+"ire",
+"ore",
+"ors",
+"rei",
+"ret",
+"roe",
+"rot",
+"sis",
+"sos",
+"tis",
+"tor",
+"riot",
+"rite"
+],
+"difficulty": 89.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 165,
+"letters": "RSKIS",
+"targets": [
+"sir",
+"ski",
+"sri",
+"kiss",
+"risk",
+"risks"
+],
+"bonus": [
+"sis",
+"kris",
+"skis"
+],
+"difficulty": 85.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 166,
+"letters": "AFELURI",
+"targets": [
+"air",
+"are",
+"far",
+"fail",
+"fair",
+"file",
+"fire",
+"fuel",
+"life",
+"real",
+"rule",
+"failure"
+],
+"bonus": [
+"ale",
+"eau",
+"elf",
+"fir",
+"fur",
+"ire",
+"lea",
+"lei",
+"leu",
+"rei",
+"rue",
+"fare",
+"flea",
+"liar",
+"lieu"
+],
+"difficulty": 89.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 167,
+"letters": "ETHME",
+"targets": [
+"met",
+"tee",
+"the",
+"meet",
+"thee",
+"them",
+"theme"
+],
+"bonus": [
+"hem",
+"het",
+"meth"
+],
+"difficulty": 89.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 168,
+"letters": "LCOSED",
+"targets": [
+"del",
+"doc",
+"led",
+"old",
+"sec",
+"code",
+"cold",
+"does",
+"sold",
+"close",
+"codes",
+"closed"
+],
+"bonus": [
+"cos",
+"ode",
+"ole",
+"coed",
+"deco",
+"olds",
+"dolce",
+"cod",
+"col",
+"doe",
+"dos",
+"sol",
+"cole",
+"docs",
+"dose"
+],
+"difficulty": 89.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 169,
+"letters": "DSEIRA",
+"targets": [
+"ads",
+"aid",
+"air",
+"are",
+"red",
+"sea",
+"idea",
+"read",
+"said",
+"side",
+"ideas",
+"raised"
+],
+"bonus": [
+"ars",
+"ers",
+"ids",
+"ire",
+"rad",
+"ras",
+"rei",
+"aide",
+"ares",
+"arid",
+"dare",
+"dire",
+"reds",
+"sire",
+"aides"
+],
+"difficulty": 89.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 170,
+"letters": "EXNOYG",
+"targets": [
+"eng",
+"gen",
+"one",
+"gone",
+"oxygen"
+],
+"bonus": [
+"ego",
+"yen",
+"onyx"
+],
+"difficulty": 85.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 171,
+"letters": "ENYLTP",
+"targets": [
+"let",
+"net",
+"pen",
+"pet",
+"tel",
+"ten",
+"yet",
+"type",
+"plenty"
+],
+"bonus": [
+"ply",
+"yen",
+"yep",
+"lent",
+"tyne"
+],
+"difficulty": 90.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 172,
+"letters": "NOSWK",
+"targets": [
+"now",
+"ons",
+"own",
+"son",
+"won",
+"know",
+"snow",
+"knows"
+],
+"bonus": [
+"kos",
+"nos",
+"owns"
+],
+"difficulty": 90.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 173,
+"letters": "AYOMRNE",
+"targets": [
+"any",
+"are",
+"man",
+"may",
+"men",
+"one",
+"many",
+"more",
+"name",
+"year",
+"money",
+"anymore"
+],
+"bonus": [
+"mae",
+"nay",
+"nom",
+"ora",
+"ore",
+"rem",
+"roe",
+"rye",
+"yea",
+"yen",
+"aero",
+"amen",
+"mare",
+"mayo",
+"norm"
+],
+"difficulty": 90.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 174,
+"letters": "WTOHRG",
+"targets": [
+"got",
+"hot",
+"how",
+"row",
+"two",
+"who",
+"grow",
+"throw",
+"worth",
+"growth"
+],
+"bonus": [
+"hog",
+"rot",
+"tho",
+"tor",
+"tow"
+],
+"difficulty": 90.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 175,
+"letters": "YFREIV",
+"targets": [
+"ref",
+"rev",
+"fire",
+"five",
+"very",
+"verify"
+],
+"bonus": [
+"fir",
+"fry",
+"ire",
+"ivy",
+"rei",
+"rye",
+"vie",
+"fiery"
+],
+"difficulty": 85.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 176,
+"letters": "AMLEHTR",
+"targets": [
+"are",
+"art",
+"her",
+"let",
+"mar",
+"the",
+"rate",
+"real",
+"team",
+"term",
+"them",
+"thermal"
+],
+"bonus": [
+"ale",
+"ate",
+"elm",
+"eta",
+"ham",
+"hem",
+"het",
+"lam",
+"lea",
+"mae",
+"mel",
+"rem",
+"ret",
+"tam",
+"tar"
+],
+"difficulty": 90.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 177,
+"letters": "ACUES",
+"targets": [
+"ace",
+"sea",
+"sec",
+"sue",
+"use",
+"case",
+"cause",
+"sauce"
+],
+"bonus": [
+"cue",
+"eau",
+"sac",
+"aces",
+"cues"
+],
+"difficulty": 90.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 178,
+"letters": "EVOTD",
+"targets": [
+"dev",
+"doe",
+"dot",
+"ted",
+"toe",
+"vote",
+"voted"
+],
+"bonus": [
+"ode",
+"vet",
+"dove",
+"veto"
+],
+"difficulty": 90.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 179,
+"letters": "IIMSTL",
+"targets": [
+"its",
+"sim",
+"sit",
+"list",
+"slim",
+"limit",
+"limits"
+],
+"bonus": [
+"lis",
+"lit",
+"mil",
+"mis",
+"til",
+"tis",
+"mist"
+],
+"difficulty": 90.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 180,
+"letters": "IKPSC",
+"targets": [
+"pic",
+"ski",
+"pick",
+"pics",
+"sick",
+"skip",
+"picks"
+],
+"bonus": [
+"cis",
+"psi",
+"sic",
+"sip"
+],
+"difficulty": 86.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 181,
+"letters": "ETSACL",
+"targets": [
+"act",
+"let",
+"sat",
+"sea",
+"set",
+"case",
+"east",
+"last",
+"late",
+"sale",
+"least",
+"castle"
+],
+"bonus": [
+"ale",
+"als",
+"ate",
+"eta",
+"lac",
+"lea",
+"sac",
+"sal",
+"tas",
+"aces",
+"alec",
+"eats",
+"lest",
+"scat",
+"sect"
+],
+"difficulty": 90.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 182,
+"letters": "YSDRA",
+"targets": [
+"ads",
+"day",
+"dry",
+"ray",
+"sad",
+"say",
+"days",
+"yard",
+"yards"
+],
+"bonus": [
+"ars",
+"rad",
+"ras",
+"rays"
+],
+"difficulty": 90.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 183,
+"letters": "RNOTH",
+"targets": [
+"hon",
+"hot",
+"nor",
+"not",
+"ton",
+"horn",
+"north"
+],
+"bonus": [
+"rot",
+"tho",
+"tor",
+"torn"
+],
+"difficulty": 90.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 184,
+"letters": "EDYILW",
+"targets": [
+"del",
+"die",
+"led",
+"lie",
+"wed",
+"wide",
+"wild",
+"yield",
+"widely"
+],
+"bonus": [
+"dew",
+"dye",
+"lei",
+"lid",
+"deli",
+"idle",
+"lied",
+"weld"
+],
+"difficulty": 90.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 185,
+"letters": "EUEALG",
+"targets": [
+"age",
+"gel",
+"lee",
+"leg",
+"eagle",
+"league"
+],
+"bonus": [
+"ale",
+"eau",
+"gal",
+"gee",
+"lag",
+"lea",
+"leu",
+"lug",
+"gale",
+"glue"
+],
+"difficulty": 86.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 186,
+"letters": "EPATNL",
+"targets": [
+"eat",
+"let",
+"net",
+"pet",
+"tel",
+"ten",
+"late",
+"plan",
+"tape",
+"panel",
+"plant",
+"planet"
+],
+"bonus": [
+"ale",
+"ant",
+"ape",
+"apt",
+"ate",
+"eta",
+"lap",
+"lea",
+"nap",
+"pea",
+"ante",
+"lean",
+"leap",
+"lent",
+"neat"
+],
+"difficulty": 90.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 187,
+"letters": "LENIS",
+"targets": [
+"ins",
+"lie",
+"sin",
+"isle",
+"lens",
+"lies",
+"line",
+"lines"
+],
+"bonus": [
+"lei",
+"lin",
+"lis",
+"nil",
+"sen",
+"lien",
+"liens"
+],
+"difficulty": 91.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 188,
+"letters": "MIPSLY",
+"targets": [
+"lip",
+"sim",
+"spy",
+"lips",
+"slim",
+"slip",
+"simply"
+],
+"bonus": [
+"imp",
+"lis",
+"mil",
+"mis",
+"ply",
+"psi",
+"sip",
+"limp",
+"lisp",
+"imply"
+],
+"difficulty": 91.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 189,
+"letters": "TRIREW",
+"targets": [
+"tie",
+"wet",
+"tier",
+"tire",
+"wire",
+"write",
+"writer"
+],
+"bonus": [
+"err",
+"ire",
+"rei",
+"ret",
+"wit",
+"rite",
+"weir",
+"writ"
+],
+"difficulty": 91.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 190,
+"letters": "WLDELAO",
+"targets": [
+"all",
+"law",
+"led",
+"low",
+"old",
+"wed",
+"deal",
+"lead",
+"wall",
+"well",
+"allow",
+"allowed"
+],
+"bonus": [
+"ale",
+"awe",
+"dal",
+"dew",
+"dow",
+"lad",
+"lea",
+"ode",
+"ole",
+"owe",
+"owl",
+"aloe",
+"lowe",
+"owed",
+"wade"
+],
+"difficulty": 86.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 191,
+"letters": "BECMOES",
+"targets": [
+"bee",
+"sec",
+"see",
+"come",
+"seem",
+"some",
+"comes",
+"become",
+"becomes"
+],
+"bonus": [
+"bos",
+"cos",
+"ems",
+"mob",
+"moc",
+"mos",
+"bees",
+"comb",
+"obese"
+],
+"difficulty": 91.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 192,
+"letters": "RSENWA",
+"targets": [
+"are",
+"new",
+"raw",
+"saw",
+"sea",
+"war",
+"was",
+"near",
+"news",
+"wars",
+"wear",
+"answer"
+],
+"bonus": [
+"ars",
+"awe",
+"ers",
+"ras",
+"sen",
+"sew",
+"wan",
+"wen",
+"ares",
+"sane",
+"swan",
+"ware",
+"warn",
+"earns",
+"swear"
+],
+"difficulty": 91.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 193,
+"letters": "EYRWLA",
+"targets": [
+"are",
+"law",
+"raw",
+"ray",
+"war",
+"way",
+"real",
+"wear",
+"year",
+"early",
+"layer",
+"lawyer"
+],
+"bonus": [
+"ale",
+"awe",
+"lea",
+"rye",
+"yea",
+"ware",
+"weary",
+"aye",
+"ear",
+"era",
+"lay",
+"earl",
+"rely",
+"relay"
+],
+"difficulty": 91.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 194,
+"letters": "IREMP",
+"targets": [
+"per",
+"pie",
+"rep",
+"rim",
+"rip",
+"ripe",
+"prime"
+],
+"bonus": [
+"imp",
+"ire",
+"mir",
+"rei",
+"rem",
+"pier"
+],
+"difficulty": 91.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 195,
+"letters": "CLLAO",
+"targets": [
+"all",
+"col",
+"call",
+"coal",
+"local"
+],
+"bonus": [
+"lac",
+"cola"
+],
+"difficulty": 87.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 196,
+"letters": "FRENIOG",
+"targets": [
+"for",
+"nor",
+"one",
+"ref",
+"fine",
+"fire",
+"gone",
+"info",
+"iron",
+"ring",
+"region",
+"foreign"
+],
+"bonus": [
+"ego",
+"fin",
+"fir",
+"fog",
+"gin",
+"ire",
+"ore",
+"rei",
+"rig",
+"roe",
+"fern",
+"fore",
+"gore",
+"grin",
+"noir"
+],
+"difficulty": 91.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 197,
+"letters": "OPEORC",
+"targets": [
+"per",
+"pro",
+"rec",
+"rep",
+"core",
+"crop",
+"poor",
+"cooper"
+],
+"bonus": [
+"cop",
+"cor",
+"ore",
+"roc",
+"roe",
+"coop",
+"cope",
+"rope"
+],
+"difficulty": 91.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 198,
+"letters": "NRCOFIM",
+"targets": [
+"con",
+"for",
+"mon",
+"nor",
+"firm",
+"form",
+"from",
+"icon",
+"info",
+"iron",
+"minor",
+"confirm"
+],
+"bonus": [
+"cor",
+"fin",
+"fir",
+"mir",
+"moc",
+"nom",
+"roc",
+"noir",
+"norm",
+"micron",
+"ion",
+"rim",
+"rom",
+"coin",
+"corn"
+],
+"difficulty": 91.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 199,
+"letters": "NLEVIAG",
+"targets": [
+"age",
+"ave",
+"van",
+"via",
+"evil",
+"gain",
+"gave",
+"give",
+"line",
+"live",
+"given",
+"leaving"
+],
+"bonus": [
+"ale",
+"gal",
+"gan",
+"gin",
+"lag",
+"lea",
+"lei",
+"lev",
+"lin",
+"nil",
+"vie",
+"gale",
+"lean",
+"lien",
+"ling"
+],
+"difficulty": 91.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 200,
+"letters": "RTIAO",
+"targets": [
+"air",
+"art",
+"rat",
+"trio",
+"ratio"
+],
+"bonus": [
+"ora",
+"rot",
+"tao",
+"tar",
+"tor",
+"riot",
+"tori"
+],
+"difficulty": 87.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 201,
+"letters": "RUOTGEM",
+"targets": [
+"get",
+"got",
+"met",
+"our",
+"out",
+"tom",
+"more",
+"term",
+"tour",
+"true",
+"route",
+"gourmet"
+],
+"bonus": [
+"ego",
+"emu",
+"gem",
+"gum",
+"gut",
+"mot",
+"mug",
+"ore",
+"rem",
+"ret",
+"roe",
+"rot",
+"rue",
+"rug",
+"rum"
+],
+"difficulty": 91.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 202,
+"letters": "MARAEC",
+"targets": [
+"are",
+"cam",
+"car",
+"mac",
+"mar",
+"ram",
+"area",
+"came",
+"care",
+"race",
+"cream",
+"camera"
+],
+"bonus": [
+"ama",
+"mae",
+"rem",
+"acme",
+"acre",
+"mare",
+"ace",
+"arc",
+"arm",
+"ear",
+"era",
+"rec",
+"marc"
+],
+"difficulty": 91.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 203,
+"letters": "TROIMUS",
+"targets": [
+"its",
+"our",
+"out",
+"rom",
+"tom",
+"most",
+"must",
+"sort",
+"tour",
+"storm",
+"tours",
+"tourism"
+],
+"bonus": [
+"mir",
+"mis",
+"mos",
+"mot",
+"mus",
+"ors",
+"rot",
+"rum",
+"tis",
+"tor",
+"mist",
+"omit",
+"ours",
+"outs",
+"rims"
+],
+"difficulty": 91.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 204,
+"letters": "HTGTOUH",
+"targets": [
+"got",
+"hot",
+"out",
+"thou",
+"ought",
+"tough",
+"though",
+"thought"
+],
+"bonus": [
+"gut",
+"hog",
+"hug",
+"huh",
+"hut",
+"tho",
+"tot",
+"thug",
+"tout"
+],
+"difficulty": 92.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 205,
+"letters": "ALUFT",
+"targets": [
+"alt",
+"fat",
+"flu",
+"lat",
+"flat",
+"fault"
+],
+"bonus": [
+"aft",
+"tau"
+],
+"difficulty": 87.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 206,
+"letters": "SCSERPO",
+"targets": [
+"per",
+"pro",
+"sec",
+"core",
+"rose",
+"cross",
+"press",
+"scope",
+"score",
+"specs",
+"scores",
+"process"
+],
+"bonus": [
+"cop",
+"cor",
+"cos",
+"ers",
+"ess",
+"ops",
+"ore",
+"ors",
+"roc",
+"roe",
+"sos",
+"cope",
+"cops",
+"peso",
+"pose"
+],
+"difficulty": 92.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 207,
+"letters": "WINSTES",
+"targets": [
+"its",
+"net",
+"new",
+"set",
+"win",
+"news",
+"sent",
+"site",
+"went",
+"west",
+"sites",
+"witness"
+],
+"bonus": [
+"ess",
+"sen",
+"sew",
+"sis",
+"tis",
+"wen",
+"wit",
+"ness",
+"nest",
+"nets",
+"nite",
+"sins",
+"sits",
+"stew",
+"tens"
+],
+"difficulty": 92.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 208,
+"letters": "UBRUEA",
+"targets": [
+"are",
+"bar",
+"bra",
+"ear",
+"era",
+"bare",
+"bear",
+"bureau"
+],
+"bonus": [
+"bur",
+"eau",
+"rub",
+"rue",
+"beau"
+],
+"difficulty": 92.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 209,
+"letters": "EELARD",
+"targets": [
+"are",
+"del",
+"led",
+"lee",
+"red",
+"deal",
+"dear",
+"lead",
+"read",
+"real",
+"dealer",
+"leader"
+],
+"bonus": [
+"ale",
+"dal",
+"dee",
+"lad",
+"lea",
+"rad",
+"dare",
+"reel",
+"ear",
+"era",
+"dale",
+"deer",
+"earl",
+"reed",
+"elder"
+],
+"difficulty": 92.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 210,
+"letters": "RLEITA",
+"targets": [
+"air",
+"are",
+"art",
+"let",
+"tel",
+"late",
+"rate",
+"real",
+"alert",
+"later",
+"trial",
+"retail"
+],
+"bonus": [
+"ale",
+"ate",
+"eta",
+"ire",
+"lea",
+"lei",
+"lit",
+"rei",
+"ret",
+"tar",
+"til",
+"liar",
+"lira",
+"rite",
+"teal"
+],
+"difficulty": 88.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 211,
+"letters": "RUNRTE",
+"targets": [
+"net",
+"run",
+"ten",
+"rent",
+"true",
+"tune",
+"turn",
+"return",
+"turner"
+],
+"bonus": [
+"err",
+"nut",
+"ret",
+"rue",
+"urn",
+"tuner"
+],
+"difficulty": 92.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 212,
+"letters": "IHARC",
+"targets": [
+"air",
+"arc",
+"car",
+"chi",
+"arch",
+"char",
+"hair",
+"rich",
+"chair"
+],
+"bonus": [
+"ich"
+],
+"difficulty": 92.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 213,
+"letters": "EDRIV",
+"targets": [
+"dev",
+"die",
+"red",
+"rev",
+"rid",
+"dive",
+"ride",
+"drive"
+],
+"bonus": [
+"ire",
+"rei",
+"vie",
+"dire",
+"diver"
+],
+"difficulty": 92.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 214,
+"letters": "ETHATR",
+"targets": [
+"are",
+"art",
+"eat",
+"her",
+"the",
+"hear",
+"heat",
+"rate",
+"that",
+"earth",
+"heart",
+"threat"
+],
+"bonus": [
+"ate",
+"att",
+"eta",
+"het",
+"ret",
+"tar",
+"hare",
+"tate",
+"tear",
+"theta",
+"ear",
+"era",
+"hat",
+"rat",
+"tea"
+],
+"difficulty": 92.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 215,
+"letters": "SESLOS",
+"targets": [
+"sol",
+"less",
+"lose",
+"loss",
+"sole",
+"losses"
+],
+"bonus": [
+"ess",
+"ole",
+"sos",
+"loses"
+],
+"difficulty": 88.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 216,
+"letters": "IMGEIAN",
+"targets": [
+"age",
+"man",
+"men",
+"gain",
+"game",
+"main",
+"mean",
+"mini",
+"name",
+"anime",
+"image",
+"imagine"
+],
+"bonus": [
+"ami",
+"gam",
+"gan",
+"gem",
+"gin",
+"mae",
+"amen",
+"mage",
+"aiming",
+"aim",
+"eng",
+"gen",
+"mag",
+"nam",
+"mine"
+],
+"difficulty": 92.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 217,
+"letters": "ARMESNI",
+"targets": [
+"air",
+"are",
+"man",
+"mar",
+"men",
+"main",
+"name",
+"near",
+"same",
+"means",
+"remains",
+"seminar"
+],
+"bonus": [
+"ami",
+"ars",
+"ems",
+"ers",
+"ire",
+"mae",
+"mas",
+"mir",
+"mis",
+"ras",
+"rei",
+"rem",
+"sen",
+"amen",
+"ares"
+],
+"difficulty": 92.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 218,
+"letters": "PGCINMA",
+"targets": [
+"aim",
+"can",
+"mac",
+"man",
+"map",
+"pic",
+"camp",
+"gain",
+"main",
+"pain",
+"magic",
+"camping"
+],
+"bonus": [
+"ami",
+"gam",
+"gan",
+"gin",
+"imp",
+"nap",
+"nip",
+"pac",
+"pam",
+"cain",
+"gimp",
+"ping",
+"panic",
+"amp",
+"cam"
+],
+"difficulty": 92.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 219,
+"letters": "ELDESA",
+"targets": [
+"ads",
+"las",
+"led",
+"lee",
+"sea",
+"see",
+"deal",
+"else",
+"lead",
+"sale",
+"deals",
+"sealed"
+],
+"bonus": [
+"ale",
+"als",
+"dal",
+"dee",
+"lad",
+"lea",
+"sal",
+"leased",
+"del",
+"sad",
+"dale",
+"ease",
+"seal",
+"seed",
+"leads"
+],
+"difficulty": 92.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 220,
+"letters": "ONAWM",
+"targets": [
+"man",
+"mon",
+"nam",
+"now",
+"own",
+"won",
+"woman"
+],
+"bonus": [
+"nom",
+"wan"
+],
+"difficulty": 88.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 221,
+"letters": "LYNPAGI",
+"targets": [
+"any",
+"gay",
+"pan",
+"pay",
+"pin",
+"gain",
+"pain",
+"plan",
+"play",
+"plain",
+"paying",
+"playing"
+],
+"bonus": [
+"gal",
+"gan",
+"gin",
+"lag",
+"lap",
+"lin",
+"nap",
+"nay",
+"nil",
+"nip",
+"ply",
+"yin",
+"ling",
+"ping",
+"yang"
+],
+"difficulty": 93.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 222,
+"letters": "ETSETA",
+"targets": [
+"eat",
+"sat",
+"sea",
+"see",
+"set",
+"tea",
+"east",
+"seat",
+"test",
+"state",
+"taste",
+"estate"
+],
+"bonus": [
+"ate",
+"att",
+"eta",
+"tas",
+"eats",
+"tate",
+"teas",
+"tees",
+"tease",
+"tee",
+"ease",
+"stat"
+],
+"difficulty": 93.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 223,
+"letters": "RREITWS",
+"targets": [
+"its",
+"set",
+"sir",
+"wet",
+"rest",
+"rise",
+"site",
+"west",
+"wire",
+"write",
+"writer",
+"writers"
+],
+"bonus": [
+"err",
+"ers",
+"ire",
+"rei",
+"ret",
+"sew",
+"tis",
+"wit",
+"rite",
+"sire",
+"stew",
+"stir",
+"weir",
+"writ",
+"wires"
+],
+"difficulty": 93.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 224,
+"letters": "RDLEO",
+"targets": [
+"del",
+"doe",
+"led",
+"old",
+"red",
+"rod",
+"lord",
+"role",
+"older"
+],
+"bonus": [
+"ode",
+"ole",
+"ore",
+"roe",
+"lore",
+"rode"
+],
+"difficulty": 93.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 225,
+"letters": "ESECFTF",
+"targets": [
+"fee",
+"sec",
+"see",
+"set",
+"tee",
+"fees",
+"feet",
+"effect",
+"effects"
+],
+"bonus": [
+"eff",
+"sect",
+"tees"
+],
+"difficulty": 88.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 226,
+"letters": "TNSLEI",
+"targets": [
+"its",
+"let",
+"net",
+"set",
+"tel",
+"line",
+"list",
+"sent",
+"site",
+"lines",
+"listen",
+"silent"
+],
+"bonus": [
+"lei",
+"lin",
+"lis",
+"lit",
+"nil",
+"sen",
+"til",
+"tis",
+"lent",
+"lest",
+"lien",
+"nest",
+"nets",
+"nite",
+"tens"
+],
+"difficulty": 93.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 227,
+"letters": "IHPCS",
+"targets": [
+"chi",
+"hip",
+"his",
+"phi",
+"pic",
+"chip",
+"pics",
+"ship",
+"chips"
+],
+"bonus": [
+"cis",
+"ich",
+"psi",
+"sic",
+"sip",
+"hips"
+],
+"difficulty": 93.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 228,
+"letters": "NATRS",
+"targets": [
+"art",
+"ran",
+"rat",
+"sat",
+"tan",
+"arts",
+"rats",
+"star",
+"trans"
+],
+"bonus": [
+"ant",
+"ars",
+"ras",
+"tar",
+"tas",
+"ants",
+"rant",
+"rants"
+],
+"difficulty": 93.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 229,
+"letters": "USIOFN",
+"targets": [
+"fun",
+"ins",
+"ion",
+"ons",
+"sin",
+"son",
+"sun",
+"info",
+"fusion"
+],
+"bonus": [
+"fin",
+"ifs",
+"nos",
+"fins",
+"ions",
+"nous",
+"infos"
+],
+"difficulty": 93.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 230,
+"letters": "EANITMY",
+"targets": [
+"any",
+"man",
+"may",
+"men",
+"yet",
+"item",
+"main",
+"many",
+"name",
+"team",
+"time",
+"anytime"
+],
+"bonus": [
+"ami",
+"ant",
+"ate",
+"eta",
+"mae",
+"nay",
+"tam",
+"yea",
+"yen",
+"yin",
+"amen",
+"ante",
+"neat",
+"nite",
+"tyne"
+],
+"difficulty": 89.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 231,
+"letters": "DORWKE",
+"targets": [
+"doe",
+"red",
+"rod",
+"row",
+"wed",
+"drew",
+"word",
+"work",
+"worked"
+],
+"bonus": [
+"dew",
+"dow",
+"ode",
+"ore",
+"owe",
+"roe",
+"owed",
+"rode",
+"woke",
+"wore"
+],
+"difficulty": 93.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 232,
+"letters": "KJIETN",
+"targets": [
+"ink",
+"jet",
+"ken",
+"kit",
+"net",
+"ten",
+"tie",
+"tin",
+"kent",
+"inkjet"
+],
+"bonus": [
+"jin",
+"kin",
+"kite",
+"knit",
+"nite"
+],
+"difficulty": 93.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 233,
+"letters": "CRIABF",
+"targets": [
+"air",
+"arc",
+"bar",
+"bra",
+"cab",
+"car",
+"far",
+"fair",
+"fabric"
+],
+"bonus": [
+"fir",
+"rib",
+"carb",
+"crab",
+"crib"
+],
+"difficulty": 93.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 234,
+"letters": "EBATS",
+"targets": [
+"eat",
+"sat",
+"sea",
+"set",
+"tea",
+"base",
+"beat",
+"best",
+"beta",
+"east",
+"seat",
+"beast"
+],
+"bonus": [
+"ate",
+"bas",
+"eta",
+"tas",
+"bats",
+"bets",
+"eats",
+"stab",
+"teas",
+"bates",
+"beats",
+"abs",
+"bat",
+"bet",
+"tab"
+],
+"difficulty": 93.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 235,
+"letters": "APSKE",
+"targets": [
+"ask",
+"asp",
+"sap",
+"sea",
+"spa",
+"peak",
+"speak"
+],
+"bonus": [
+"ape",
+"pas",
+"pea",
+"ska",
+"peas",
+"sake",
+"peaks"
+],
+"difficulty": 89.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 236,
+"letters": "NIARIEL",
+"targets": [
+"air",
+"are",
+"earn",
+"lane",
+"line",
+"near",
+"rail",
+"rain",
+"real",
+"learn",
+"linear",
+"airline"
+],
+"bonus": [
+"ale",
+"ire",
+"lea",
+"lei",
+"lin",
+"nil",
+"rei",
+"lean",
+"liar",
+"lien",
+"lira",
+"ariel",
+"liner",
+"renal",
+"ear"
+],
+"difficulty": 93.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 237,
+"letters": "KTARWRO",
+"targets": [
+"art",
+"oak",
+"rat",
+"raw",
+"row",
+"two",
+"war",
+"work",
+"arrow",
+"artwork"
+],
+"bonus": [
+"ark",
+"kat",
+"ora",
+"rot",
+"tao",
+"tar",
+"tor",
+"tow",
+"wat",
+"kart"
+],
+"difficulty": 94.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 238,
+"letters": "ALETTR",
+"targets": [
+"are",
+"art",
+"eat",
+"let",
+"tea",
+"tel",
+"late",
+"rate",
+"real",
+"alert",
+"later",
+"latter"
+],
+"bonus": [
+"ale",
+"ate",
+"att",
+"eta",
+"lea",
+"ret",
+"tar",
+"tate",
+"teal",
+"tear",
+"alt",
+"ear",
+"era",
+"lat",
+"rat"
+],
+"difficulty": 94.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 239,
+"letters": "NUCSELO",
+"targets": [
+"con",
+"one",
+"sec",
+"son",
+"sun",
+"use",
+"lose",
+"once",
+"ones",
+"soul",
+"close",
+"counsel"
+],
+"bonus": [
+"cos",
+"cue",
+"leu",
+"nos",
+"ole",
+"sen",
+"clue",
+"cone",
+"cues",
+"lone",
+"noel",
+"nous",
+"clues",
+"locus",
+"ounce"
+],
+"difficulty": 94.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 240,
+"letters": "EUMMUSS",
+"targets": [
+"mem",
+"sue",
+"sum",
+"use",
+"uses",
+"museum",
+"museums"
+],
+"bonus": [
+"ems",
+"emu",
+"ess",
+"mum",
+"mus",
+"mess",
+"muse",
+"sums"
+],
+"difficulty": 89.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 241,
+"letters": "ETRAS",
+"targets": [
+"are",
+"art",
+"sat",
+"sea",
+"set",
+"arts",
+"east",
+"rate",
+"rest",
+"star",
+"rates",
+"tears"
+],
+"bonus": [
+"ars",
+"ate",
+"ers",
+"eta",
+"ras",
+"ret",
+"tar",
+"tas",
+"ares",
+"eats",
+"tear",
+"teas",
+"stare",
+"ear",
+"eat"
+],
+"difficulty": 94.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 242,
+"letters": "LEBDA",
+"targets": [
+"bad",
+"bed",
+"del",
+"lab",
+"led",
+"able",
+"dale",
+"deal",
+"lead",
+"blade"
+],
+"bonus": [
+"ale",
+"bal",
+"bel",
+"dab",
+"dal",
+"deb",
+"lad",
+"lea",
+"bald",
+"bead"
+],
+"difficulty": 94.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 243,
+"letters": "NCUILOC",
+"targets": [
+"col",
+"con",
+"ion",
+"oil",
+"coin",
+"icon",
+"lion",
+"colin",
+"council"
+],
+"bonus": [
+"lin",
+"nil",
+"coil"
+],
+"difficulty": 94.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 244,
+"letters": "ROGNAM",
+"targets": [
+"ago",
+"arm",
+"man",
+"mar",
+"mon",
+"nor",
+"ram",
+"ran",
+"rom",
+"among",
+"roman",
+"morgan"
+],
+"bonus": [
+"gam",
+"gan",
+"goa",
+"nom",
+"ora",
+"rag",
+"gram",
+"gran",
+"norm",
+"rang",
+"mango",
+"mag",
+"nam",
+"manor",
+"organ"
+],
+"difficulty": 94.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 245,
+"letters": "SSOLT",
+"targets": [
+"lot",
+"sol",
+"loss",
+"lost",
+"lots",
+"slot",
+"slots"
+],
+"bonus": [
+"sos",
+"toss"
+],
+"difficulty": 90.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 246,
+"letters": "REUMMS",
+"targets": [
+"mem",
+"res",
+"ser",
+"sue",
+"sum",
+"use",
+"sure",
+"user",
+"summer"
+],
+"bonus": [
+"ems",
+"emu",
+"ers",
+"mum",
+"mus",
+"rem",
+"rue",
+"rum",
+"muse",
+"serum"
+],
+"difficulty": 94.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 247,
+"letters": "REIDDSE",
+"targets": [
+"did",
+"die",
+"red",
+"res",
+"see",
+"sir",
+"died",
+"ride",
+"rise",
+"seed",
+"side",
+"desired"
+],
+"bonus": [
+"dee",
+"ers",
+"ids",
+"ire",
+"rei",
+"deed",
+"dire",
+"reds",
+"sire",
+"deeds",
+"dried",
+"rides",
+"sided",
+"reside",
+"dis"
+],
+"difficulty": 94.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 248,
+"letters": "GGMANI",
+"targets": [
+"aim",
+"mag",
+"man",
+"nam",
+"gain",
+"gang",
+"main",
+"aging",
+"gaming"
+],
+"bonus": [
+"ami",
+"gag",
+"gam",
+"gan",
+"gig",
+"gin"
+],
+"difficulty": 94.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 249,
+"letters": "IGNOKCO",
+"targets": [
+"con",
+"ink",
+"ion",
+"coin",
+"cook",
+"icon",
+"king",
+"nick",
+"congo",
+"cooking"
+],
+"bonus": [
+"gin",
+"goo",
+"kin"
+],
+"difficulty": 94.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 250,
+"letters": "RAHETR",
+"targets": [
+"are",
+"art",
+"eat",
+"her",
+"the",
+"hear",
+"heat",
+"rare",
+"rate",
+"earth",
+"heart",
+"rather"
+],
+"bonus": [
+"ate",
+"err",
+"eta",
+"het",
+"ret",
+"tar",
+"hare",
+"tear",
+"terra",
+"ear",
+"era",
+"hat",
+"rat",
+"tea",
+"hart"
+],
+"difficulty": 90.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 251,
+"letters": "ICRREAR",
+"targets": [
+"air",
+"are",
+"car",
+"ear",
+"era",
+"ice",
+"care",
+"race",
+"rare",
+"rear",
+"rice",
+"carrier"
+],
+"bonus": [
+"err",
+"ire",
+"rei",
+"acre",
+"carr",
+"erica",
+"racer",
+"ace",
+"arc",
+"rec"
+],
+"difficulty": 94.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 252,
+"letters": "RAAES",
+"targets": [
+"are",
+"ear",
+"era",
+"res",
+"sea",
+"ser",
+"area",
+"ears",
+"areas"
+],
+"bonus": [
+"ars",
+"ers",
+"ras",
+"ares"
+],
+"difficulty": 94.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 253,
+"letters": "CEOTTNN",
+"targets": [
+"con",
+"net",
+"not",
+"one",
+"ten",
+"toe",
+"cent",
+"none",
+"note",
+"once",
+"tone",
+"content"
+],
+"bonus": [
+"cot",
+"tot",
+"cone",
+"conn",
+"cote",
+"neon",
+"tent",
+"tote",
+"octet",
+"ton"
+],
+"difficulty": 94.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 254,
+"letters": "CEISLEN",
+"targets": [
+"ice",
+"lee",
+"sec",
+"see",
+"else",
+"line",
+"nice",
+"seen",
+"lines",
+"since",
+"license",
+"silence"
+],
+"bonus": [
+"cis",
+"lei",
+"lin",
+"lis",
+"nil",
+"sen",
+"sic",
+"lien",
+"liens",
+"slice",
+"ins",
+"lie",
+"sin",
+"isle",
+"lens"
+],
+"difficulty": 95.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 255,
+"letters": "ZPRIE",
+"targets": [
+"per",
+"pie",
+"rep",
+"rip",
+"zip",
+"ripe",
+"prize"
+],
+"bonus": [
+"ire",
+"rei",
+"pier"
+],
+"difficulty": 90.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 256,
+"letters": "VESTIID",
+"targets": [
+"dev",
+"die",
+"its",
+"set",
+"sit",
+"tie",
+"diet",
+"edit",
+"side",
+"site",
+"visit",
+"visited"
+],
+"bonus": [
+"dit",
+"ids",
+"tis",
+"vet",
+"vie",
+"vis",
+"tide",
+"vest",
+"vets",
+"diets",
+"edits",
+"tides",
+"dis",
+"ted",
+"dies"
+],
+"difficulty": 95.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 257,
+"letters": "RAFEDM",
+"targets": [
+"are",
+"far",
+"mar",
+"ram",
+"red",
+"farm",
+"fear",
+"made",
+"read",
+"dream",
+"frame",
+"framed"
+],
+"bonus": [
+"mae",
+"rad",
+"rem",
+"dame",
+"dare",
+"deaf",
+"dram",
+"fade",
+"fare",
+"mare",
+"mead",
+"arm",
+"dam",
+"ear",
+"era"
+],
+"difficulty": 95.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 258,
+"letters": "EXMNAEI",
+"targets": [
+"aim",
+"man",
+"max",
+"men",
+"mix",
+"exam",
+"main",
+"mean",
+"mine",
+"name",
+"anime",
+"examine"
+],
+"bonus": [
+"ami",
+"axe",
+"mae",
+"amen",
+"maxi",
+"nam"
+],
+"difficulty": 95.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 259,
+"letters": "ACNNSRE",
+"targets": [
+"are",
+"can",
+"car",
+"sea",
+"sec",
+"care",
+"cars",
+"case",
+"earn",
+"near",
+"race",
+"scanner"
+],
+"bonus": [
+"ars",
+"ers",
+"nan",
+"ras",
+"sac",
+"sen",
+"aces",
+"acne",
+"acre",
+"ares",
+"cane",
+"cans",
+"sane",
+"scar",
+"cares"
+],
+"difficulty": 95.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 260,
+"letters": "CURDEPO",
+"targets": [
+"cup",
+"doc",
+"due",
+"our",
+"per",
+"pro",
+"red",
+"code",
+"core",
+"drop",
+"euro",
+"produce"
+],
+"bonus": [
+"cop",
+"cor",
+"cue",
+"cur",
+"duo",
+"ode",
+"ore",
+"pod",
+"roc",
+"roe",
+"rue",
+"coed",
+"cope",
+"coup",
+"deco"
+],
+"difficulty": 91.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 261,
+"letters": "OEDCS",
+"targets": [
+"cod",
+"doc",
+"doe",
+"dos",
+"sec",
+"code",
+"docs",
+"does",
+"dose",
+"codes"
+],
+"bonus": [
+"cos",
+"ode",
+"coed",
+"deco"
+],
+"difficulty": 95.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 262,
+"letters": "ELDPAY",
+"targets": [
+"day",
+"del",
+"lay",
+"led",
+"pad",
+"pay",
+"deal",
+"lady",
+"lead",
+"play",
+"delay",
+"played"
+],
+"bonus": [
+"ale",
+"ape",
+"dal",
+"dye",
+"lad",
+"lap",
+"lea",
+"pea",
+"ply",
+"yea",
+"yep",
+"leap",
+"pale",
+"plea",
+"pedal"
+],
+"difficulty": 95.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 263,
+"letters": "OEPRCP",
+"targets": [
+"per",
+"pop",
+"pro",
+"rec",
+"rep",
+"core",
+"crop",
+"pope",
+"prep",
+"copper"
+],
+"bonus": [
+"cop",
+"cor",
+"ore",
+"pep",
+"roc",
+"roe",
+"cope",
+"prop",
+"rope"
+],
+"difficulty": 95.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 264,
+"letters": "TEATS",
+"targets": [
+"eat",
+"sat",
+"sea",
+"set",
+"tea",
+"east",
+"seat",
+"stat",
+"test",
+"state",
+"taste"
+],
+"bonus": [
+"ate",
+"att",
+"eta",
+"tas",
+"eats",
+"tate",
+"teas"
+],
+"difficulty": 95.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 265,
+"letters": "CTKSA",
+"targets": [
+"act",
+"ask",
+"cat",
+"sat",
+"acts",
+"cast",
+"cats",
+"task",
+"stack"
+],
+"bonus": [
+"kat",
+"sac",
+"ska",
+"tas",
+"sack",
+"scat",
+"tack"
+],
+"difficulty": 91.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 266,
+"letters": "TOCOCAB",
+"targets": [
+"act",
+"bat",
+"cab",
+"cat",
+"tab",
+"too",
+"boat",
+"boot",
+"coat",
+"tobacco"
+],
+"bonus": [
+"boa",
+"boo",
+"bot",
+"cot",
+"tao",
+"coca",
+"coco",
+"taco",
+"cocoa",
+"taboo"
+],
+"difficulty": 95.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 267,
+"letters": "SKROET",
+"targets": [
+"res",
+"ser",
+"set",
+"toe",
+"rest",
+"rose",
+"sort",
+"trek",
+"store",
+"stroke"
+],
+"bonus": [
+"ers",
+"kos",
+"ore",
+"ors",
+"ret",
+"roe",
+"rot",
+"tor",
+"sore",
+"toes",
+"stoke"
+],
+"difficulty": 95.8,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 268,
+"letters": "VODNER",
+"targets": [
+"den",
+"dev",
+"don",
+"end",
+"nor",
+"one",
+"red",
+"rod",
+"done",
+"node",
+"over",
+"vendor"
+],
+"bonus": [
+"nod",
+"ode",
+"ore",
+"roe",
+"dove",
+"nerd",
+"rode",
+"rove",
+"devon",
+"drove",
+"doe",
+"rev",
+"oven"
+],
+"difficulty": 95.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 269,
+"letters": "VRIAULT",
+"targets": [
+"air",
+"art",
+"lat",
+"var",
+"vat",
+"via",
+"rail",
+"trail",
+"trial",
+"ultra",
+"vital",
+"virtual"
+],
+"bonus": [
+"lit",
+"luv",
+"tar",
+"tau",
+"til",
+"liar",
+"lira",
+"vail",
+"vita",
+"rival",
+"vault",
+"viral",
+"ritual",
+"alt",
+"rat"
+],
+"difficulty": 95.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 270,
+"letters": "IITLNIA",
+"targets": [
+"alt",
+"lat",
+"tan",
+"tin",
+"anti",
+"nail",
+"tail",
+"initial"
+],
+"bonus": [
+"ant",
+"lin",
+"lit",
+"nil",
+"til"
+],
+"difficulty": 91.6,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 271,
+"letters": "PERID",
+"targets": [
+"die",
+"per",
+"pie",
+"red",
+"rep",
+"rid",
+"rip",
+"ride",
+"ripe",
+"pride"
+],
+"bonus": [
+"dip",
+"ire",
+"rei",
+"dire",
+"drip",
+"pier"
+],
+"difficulty": 96.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 272,
+"letters": "BOARCAT",
+"targets": [
+"act",
+"arc",
+"art",
+"bar",
+"car",
+"cat",
+"rob",
+"tab",
+"boat",
+"cart",
+"actor",
+"acrobat"
+],
+"bonus": [
+"aba",
+"boa",
+"bot",
+"bro",
+"cor",
+"cot",
+"ora",
+"orb",
+"roc",
+"rot",
+"tao",
+"tar",
+"tor",
+"acta",
+"carb"
+],
+"difficulty": 96.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 273,
+"letters": "HECCOSI",
+"targets": [
+"chi",
+"his",
+"ice",
+"sec",
+"she",
+"echo",
+"shoe",
+"chose",
+"cisco",
+"choice",
+"choices"
+],
+"bonus": [
+"cis",
+"cos",
+"hes",
+"ich",
+"sic",
+"chic",
+"hose",
+"chico"
+],
+"difficulty": 96.1,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 274,
+"letters": "ISERED",
+"targets": [
+"die",
+"red",
+"res",
+"see",
+"sir",
+"sri",
+"reed",
+"ride",
+"rise",
+"seed",
+"side",
+"desire"
+],
+"bonus": [
+"dee",
+"ers",
+"ids",
+"ire",
+"rei",
+"dire",
+"reds",
+"sire",
+"rides",
+"reside",
+"dis",
+"rid",
+"ser",
+"deer",
+"dies"
+],
+"difficulty": 96.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 275,
+"letters": "BEACME",
+"targets": [
+"ace",
+"bee",
+"cab",
+"cam",
+"mac",
+"beam",
+"came",
+"became"
+],
+"bonus": [
+"bam",
+"mae",
+"acme"
+],
+"difficulty": 91.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 276,
+"letters": "RAERNW",
+"targets": [
+"are",
+"era",
+"new",
+"raw",
+"war",
+"earn",
+"near",
+"rare",
+"rear",
+"wear",
+"warner",
+"warren"
+],
+"bonus": [
+"awe",
+"err",
+"wan",
+"wen",
+"ware",
+"warn",
+"ear",
+"ran"
+],
+"difficulty": 96.3,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 277,
+"letters": "ITCERD",
+"targets": [
+"die",
+"ice",
+"red",
+"tie",
+"diet",
+"edit",
+"rice",
+"ride",
+"cited",
+"tried",
+"credit",
+"direct"
+],
+"bonus": [
+"dit",
+"ire",
+"rei",
+"ret",
+"tic",
+"dice",
+"dire",
+"rite",
+"tide",
+"cider",
+"cried",
+"rec",
+"rid",
+"ted",
+"cite"
+],
+"difficulty": 96.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 278,
+"letters": "MEIDA",
+"targets": [
+"aid",
+"aim",
+"dam",
+"die",
+"mad",
+"med",
+"mid",
+"idea",
+"made",
+"aimed",
+"media"
+],
+"bonus": [
+"ami",
+"dim",
+"mae",
+"aide",
+"amid",
+"dame",
+"dime",
+"maid",
+"mead"
+],
+"difficulty": 96.4,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 279,
+"letters": "CISUER",
+"targets": [
+"ice",
+"res",
+"sec",
+"sir",
+"sri",
+"sue",
+"use",
+"rice",
+"rise",
+"sure",
+"user",
+"cruise"
+],
+"bonus": [
+"cis",
+"cue",
+"cur",
+"ers",
+"ire",
+"rei",
+"rue",
+"sic",
+"cues",
+"sire",
+"cries",
+"curse",
+"rec",
+"ser",
+"cure"
+],
+"difficulty": 96.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 280,
+"letters": "OEMTNSM",
+"targets": [
+"men",
+"mon",
+"net",
+"not",
+"one",
+"set",
+"most",
+"note",
+"sent",
+"some",
+"notes",
+"moments"
+],
+"bonus": [
+"ems",
+"mos",
+"mot",
+"nom",
+"nos",
+"sen",
+"memo",
+"nest",
+"nets",
+"tens",
+"toes",
+"tome",
+"monte",
+"onset",
+"mem"
+],
+"difficulty": 92.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 281,
+"letters": "ERPCIES",
+"targets": [
+"ice",
+"per",
+"pic",
+"sec",
+"see",
+"pics",
+"rise",
+"piece",
+"price",
+"prices",
+"precise",
+"recipes"
+],
+"bonus": [
+"cis",
+"ers",
+"ire",
+"psi",
+"rei",
+"sic",
+"sip",
+"epic",
+"pier",
+"pies",
+"reps",
+"sire",
+"creep",
+"cries",
+"crisp"
+],
+"difficulty": 96.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 282,
+"letters": "NRIOMF",
+"targets": [
+"for",
+"ion",
+"mon",
+"nor",
+"rom",
+"firm",
+"form",
+"from",
+"info",
+"iron",
+"minor",
+"inform"
+],
+"bonus": [
+"fin",
+"fir",
+"mir",
+"nom",
+"noir",
+"norm",
+"rim"
+],
+"difficulty": 96.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 283,
+"letters": "EPLOBMR",
+"targets": [
+"per",
+"pro",
+"rep",
+"rob",
+"rom",
+"more",
+"poem",
+"pole",
+"role",
+"probe",
+"problem"
+],
+"bonus": [
+"bel",
+"bop",
+"bro",
+"elm",
+"lob",
+"mel",
+"mob",
+"mol",
+"mop",
+"ole",
+"orb",
+"ore",
+"pol",
+"rem",
+"roe"
+],
+"difficulty": 96.7,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 284,
+"letters": "PROMAGR",
+"targets": [
+"ago",
+"amp",
+"arm",
+"gap",
+"map",
+"mar",
+"par",
+"pro",
+"ram",
+"rap",
+"rom",
+"program"
+],
+"bonus": [
+"gam",
+"goa",
+"mop",
+"ora",
+"pam",
+"rag",
+"gram",
+"prog",
+"prom",
+"ramp",
+"armor",
+"mag"
+],
+"difficulty": 96.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 285,
+"letters": "ASRPH",
+"targets": [
+"ash",
+"asp",
+"has",
+"par",
+"rap",
+"sap",
+"spa",
+"sharp"
+],
+"bonus": [
+"ars",
+"pas",
+"ras",
+"sha",
+"harp",
+"rash"
+],
+"difficulty": 92.5,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 286,
+"letters": "CRTPXEE",
+"targets": [
+"pee",
+"per",
+"pet",
+"rep",
+"tee",
+"peer",
+"tree",
+"peter",
+"except",
+"expect",
+"expert",
+"excerpt"
+],
+"bonus": [
+"ret",
+"rex",
+"exec",
+"creep",
+"erect",
+"rec"
+],
+"difficulty": 96.9,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 287,
+"letters": "IRCFEOF",
+"targets": [
+"for",
+"ice",
+"off",
+"rec",
+"ref",
+"core",
+"fire",
+"rice",
+"force",
+"offer",
+"office",
+"officer"
+],
+"bonus": [
+"cor",
+"eff",
+"fir",
+"ire",
+"ore",
+"rei",
+"roc",
+"roe",
+"fife",
+"fore"
+],
+"difficulty": 96.9,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 288,
+"letters": "ATOCNI",
+"targets": [
+"act",
+"can",
+"cat",
+"con",
+"ion",
+"not",
+"tin",
+"anti",
+"coat",
+"icon",
+"into",
+"action"
+],
+"bonus": [
+"ant",
+"cot",
+"tao",
+"tic",
+"cain",
+"taco",
+"cation",
+"tan",
+"ton",
+"cant",
+"ciao",
+"coin"
+],
+"difficulty": 97.0,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 289,
+"letters": "TALSRI",
+"targets": [
+"air",
+"art",
+"its",
+"las",
+"sat",
+"arts",
+"last",
+"list",
+"star",
+"trial",
+"trails",
+"trials"
+],
+"bonus": [
+"als",
+"ars",
+"lis",
+"lit",
+"ras",
+"sal",
+"tar",
+"tas",
+"til",
+"tis",
+"lars",
+"liar",
+"lira",
+"sail",
+"stir"
+],
+"difficulty": 97.1,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 290,
+"letters": "PWORDEE",
+"targets": [
+"per",
+"pro",
+"red",
+"row",
+"wed",
+"deep",
+"drop",
+"peer",
+"were",
+"word",
+"power",
+"powered"
+],
+"bonus": [
+"dee",
+"dew",
+"dow",
+"ode",
+"ore",
+"owe",
+"pod",
+"pow",
+"roe",
+"wee",
+"owed",
+"prod",
+"rode",
+"rope",
+"weed"
+],
+"difficulty": 92.8,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 291,
+"letters": "SDAET",
+"targets": [
+"ads",
+"eat",
+"sad",
+"sat",
+"sea",
+"set",
+"tea",
+"ted",
+"date",
+"east",
+"seat",
+"dates"
+],
+"bonus": [
+"ate",
+"eta",
+"tad",
+"tas",
+"eats",
+"teas"
+],
+"difficulty": 97.2,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 292,
+"letters": "IAEQUNT",
+"targets": [
+"eat",
+"net",
+"tea",
+"ten",
+"tie",
+"tin",
+"anti",
+"tune",
+"unit",
+"quiet",
+"quite",
+"antique"
+],
+"bonus": [
+"ant",
+"ate",
+"eau",
+"eta",
+"nut",
+"tau",
+"ante",
+"aunt",
+"neat",
+"nite",
+"tuna",
+"unite",
+"quinta",
+"tan",
+"quit"
+],
+"difficulty": 97.2,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 293,
+"letters": "CAFFET",
+"targets": [
+"ace",
+"act",
+"cat",
+"eat",
+"fat",
+"tea",
+"cafe",
+"face",
+"fact",
+"fate",
+"affect"
+],
+"bonus": [
+"aff",
+"aft",
+"ate",
+"eff",
+"eta",
+"feat"
+],
+"difficulty": 97.3,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 294,
+"letters": "GNOLCIO",
+"targets": [
+"con",
+"ion",
+"log",
+"oil",
+"coin",
+"cool",
+"icon",
+"lion",
+"logo",
+"long",
+"logic",
+"cooling"
+],
+"bonus": [
+"gin",
+"goo",
+"lin",
+"nil",
+"coil",
+"ling",
+"colon",
+"col",
+"colin",
+"congo"
+],
+"difficulty": 97.4,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 295,
+"letters": "OLYPIC",
+"targets": [
+"col",
+"lip",
+"oil",
+"pic",
+"clip",
+"copy",
+"poly",
+"policy"
+],
+"bonus": [
+"cop",
+"ply",
+"pol",
+"coil"
+],
+"difficulty": 93.0,
+"notes": [
+"moved obscure words to bonus"
+]
+},
+{
+"level": 296,
+"letters": "HETNGL",
+"targets": [
+"eng",
+"gel",
+"gen",
+"get",
+"leg",
+"let",
+"net",
+"tel",
+"ten",
+"the",
+"then",
+"length"
+],
+"bonus": [
+"hen",
+"het",
+"lent",
+"glen"
+],
+"difficulty": 97.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 297,
+"letters": "CTHAR",
+"targets": [
+"act",
+"arc",
+"art",
+"car",
+"cat",
+"hat",
+"rat",
+"arch",
+"cart",
+"char",
+"chat",
+"chart"
+],
+"bonus": [
+"tar",
+"hart"
+],
+"difficulty": 97.5,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 298,
+"letters": "TLPEIR",
+"targets": [
+"let",
+"lie",
+"per",
+"pet",
+"pie",
+"rep",
+"tel",
+"tie",
+"tip",
+"lite",
+"trip",
+"triple"
+],
+"bonus": [
+"ire",
+"lei",
+"lit",
+"rei",
+"ret",
+"til",
+"pier",
+"pile",
+"rite",
+"liter",
+"litre",
+"lip",
+"pit",
+"rip",
+"ripe"
+],
+"difficulty": 97.6,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 299,
+"letters": "TEPAL",
+"targets": [
+"eat",
+"lat",
+"let",
+"pal",
+"pat",
+"pet",
+"tea",
+"tel",
+"late",
+"tale",
+"tape",
+"plate"
+],
+"bonus": [
+"ale",
+"ape",
+"apt",
+"ate",
+"eta",
+"lap",
+"lea",
+"pea",
+"leap",
+"pale",
+"plat",
+"plea",
+"teal",
+"alt",
+"tap"
+],
+"difficulty": 97.7,
+"notes": [
+"moved obscure words to bonus",
+"trimmed to the commonest targets"
+]
+},
+{
+"level": 300,
+"letters": "EMPTEL",
+"targets": [
+"lee",
+"let",
+"met",
+"pee",
+"pet",
+"tee",
+"tel",
+"meet",
+"temp",
+"temple"
+],
+"bonus": [
+"elm",
+"mel",
+"melt",
+"peel",
+"tele"
+],
+"difficulty": 93.4,
+"notes": [
+"moved obscure words to bonus"
+]
+}
+]
